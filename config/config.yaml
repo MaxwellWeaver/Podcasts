@@ -11,7 +11,7 @@ logs_root: ./logs
 # Public base URL where MP3s and feed.xml are served.
 # Set to your GitHub Pages URL (e.g. https://<user>.github.io/Podcasts).
 # When repo size triggers R2 migration, flip this to the R2 public URL.
-audio_base_url: https://CHANGE_ME.github.io/Podcasts
+audio_base_url: https://maxwellweaver.github.io/Podcasts
 
 llm:
   backend: claude_cli           # or "anthropic_sdk" later
