@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Working artifacts (kept locally for debugging, not in git)
+episodes/**/*.wav
+episodes/**/llm_calls.jsonl
+episodes/**/sources.json
+episodes/**/ranked.json
+episodes/**/context.md
+logs/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets / local config overrides
+.env
+config/local.*.yaml
+
+# Obsidian workspace state (vault content IS tracked)
+vault/.obsidian/workspace*
+vault/.obsidian/cache
+vault/.trash/

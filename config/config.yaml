@@ -1,0 +1,70 @@
+# Static-ish project configuration.
+# Per-feed source lists live in sources.<feed>.yaml.
+# Pronunciation rules live in pronunciations.yaml.
+
+project_root: .
+vault_root: ./vault
+docs_root: ./docs
+episodes_root: ./episodes
+logs_root: ./logs
+
+# Public base URL where MP3s and feed.xml are served.
+# Set to your GitHub Pages URL (e.g. https://<user>.github.io/Podcasts).
+# When repo size triggers R2 migration, flip this to the R2 public URL.
+audio_base_url: https://CHANGE_ME.github.io/Podcasts
+
+llm:
+  backend: claude_cli           # or "anthropic_sdk" later
+  cli_path: C:\Users\Maxgc\.local\bin\claude.exe
+  tiers:
+    haiku: claude-haiku-4-5
+    sonnet: claude-sonnet-4-6
+    opus: claude-opus-4-7
+  # Per-call timeouts and retries
+  timeout_sec: 300
+  retries: 3
+  retry_backoff_sec: 5
+
+tts:
+  engine: kokoro
+  voices:
+    world_news: af_heart        # American female, robust on long form
+    ai: am_michael              # slight tonal differentiation between feeds
+  speed: 1.0
+  sample_rate: 24000
+  output_bitrate: 64k
+  # Hard-cap script length to prevent runaway TTS time
+  max_chars: 32000
+
+feeds:
+  world_news:
+    title: "World News — private feed"
+    description: "Daily geopolitics, defense tech, and tech briefing. Generated locally."
+    target_minutes: 14
+    target_words: 2000
+    word_floor: 1900
+    word_ceiling: 2300
+    cadence: daily
+    itunes_category: News
+    itunes_subcategory: Daily News
+  ai:
+    title: "AI Capabilities — weekly"
+    description: "Weekly state-of-the-art AI capabilities briefing. Generated locally."
+    target_minutes: 25
+    target_words: 4000
+    word_floor: 3500
+    word_ceiling: 4700
+    cadence: weekly
+    itunes_category: Technology
+
+ranking:
+  min_score: 12               # novelty (0-10) + importance (0-10), drop below this
+  haiku_batch_size: 30
+  body_truncate_chars: 1500
+
+deploy:
+  git_remote: origin
+  git_branch: main
+  commit_message_fmt: "[{feed}] {date} episode"
+
+notify_on_complete: true       # Windows toast; requires `pip install .[notify]`

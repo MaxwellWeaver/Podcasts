@@ -1,0 +1,107 @@
+# Pronunciation overrides applied as string substitutions before TTS.
+#
+# Kokoro doesn't speak SSML, so we rewrite the source text instead.
+#
+# Three sections:
+#   say_letters: render as individual letters (G P U -> "gee pee yoo")
+#   say_word:    render as a word using the given phonetic spelling
+#   replace:    arbitrary literal substitution
+#
+# Substitutions are whole-word, case-sensitive (so "doge" the dog meme
+# doesn't get touched when "DOGE" is meant).
+
+say_letters:
+  - GPU
+  - CPU
+  - LLM
+  - LLMs
+  - API
+  - APIs
+  - SDK
+  - CLI
+  - HTTP
+  - HTTPS
+  - SQL
+  - JSON
+  - YAML
+  - TPU
+  - RAM
+  - SSD
+  - DOJ
+  - FBI
+  - CIA
+  - NSA
+  - DOD
+  - EU
+  - UN
+  - UK
+  - US
+  - USA
+  - DRC
+  - PRC
+  - CCP
+  - PLA
+  - DPRK
+  - BRICS
+  - ICBM
+  - SLBM
+  - UAV
+  - MRBM
+
+say_word:
+  NATO: "nay-toh"
+  UNESCO: "yoo-ness-koh"
+  ASEAN: "ah-see-ahn"
+  OPEC: "oh-pek"
+  Fed: "fed"
+  SCOTUS: "skoh-tus"
+  POTUS: "poh-tus"
+  Wagner: "vog-ner"
+  Houthi: "hoo-thee"
+  Houthis: "hoo-thees"
+  Hezbollah: "hez-buh-lah"
+  Likud: "lih-kood"
+  Knesset: "k'ness-et"
+  Zelensky: "zeh-len-skee"
+  Zelenskyy: "zeh-len-skee"
+  Putin: "poo-tin"
+  Erdogan: "er-doh-wahn"
+  Netanyahu: "net-an-yah-hoo"
+  Macron: "ma-krohn"
+  Orban: "or-bahn"
+  Modi: "moh-dee"
+  Ishiba: "ee-shee-bah"
+  Yoon: "yoon"
+  Xi: "shee"
+  Anthropic: "an-throw-pic"
+  Claude: "klawd"
+  Gemini: "jeh-mih-nye"
+  Llama: "lah-mah"
+  Mistral: "miss-trahl"
+  Nvidia: "en-vid-ee-uh"
+  TSMC: "tee ess em see"
+  Qwen: "kwen"
+  DeepSeek: "deep-seek"
+  arXiv: "archive"
+  Kyiv: "keev"
+  Donbas: "don-bass"
+  Donbass: "don-bass"
+  Sevastopol: "seh-vas-toh-pol"
+  Beijing: "bay-jing"
+  Pyongyang: "p'yong-yang"
+  Tehran: "teh-rahn"
+  Riyadh: "ree-yahd"
+  Doha: "doh-hah"
+
+replace:
+  # Avoid model misreadings of stylized brand names
+  xAI: "x A I"
+  o3: "oh three"
+  o4: "oh four"
+  GPT-4: "G P T four"
+  GPT-5: "G P T five"
+  GPT-6: "G P T six"
+  GPT-4o: "G P T four oh"
+  Claude 4.5: "Claude four point five"
+  Claude 4.6: "Claude four point six"
+  Claude 4.7: "Claude four point seven"
