@@ -8,12 +8,9 @@ venv/
 .mypy_cache/
 .ruff_cache/
 
-# Working artifacts (kept locally for debugging, not in git)
-episodes/**/*.wav
-episodes/**/llm_calls.jsonl
-episodes/**/sources.json
-episodes/**/ranked.json
-episodes/**/context.md
+# Working artifacts (kept locally for debugging, not in git).
+# The canonical episode lives in vault/episodes/; the working dir is scratch.
+episodes/
 logs/
 
 # OS / editor
