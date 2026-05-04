@@ -7,8 +7,8 @@ STAGES = [
     "rank",
     "context",
     "script",
-    "vault_update",
     "tts",
+    "vault_update",
     "feed",
     "deploy",
 ]
