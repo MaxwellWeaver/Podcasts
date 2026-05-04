@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>World News — private feed</title>
+    <link>https://CHANGE_ME.github.io/Podcasts</link>
+    <description>Daily geopolitics, defense tech, and tech briefing. Generated locally.</description>
+    <atom:link href="https://CHANGE_ME.github.io/Podcasts/world_news/feed.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 May 2026 16:15:56 +0000</lastBuildDate>
+    <itunes:author>podcastgen</itunes:author>
+    <itunes:category text="News"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>Daily geopolitics, defense tech, and tech briefing. Generated locally.</itunes:summary>
+    <item>
+      <title>Ukraine's Air Defense Hangs on Iran</title>
+      <description>The U.S. war in Iran is creating direct resource competition for Patriot interceptors Ukraine depends on, while Israel commits to a $118 billion military build, Indian elections reshape the national opposition, and European leaders convene on Russian-aligned Armenian soil.</description>
+      <guid isPermaLink="false">https://CHANGE_ME.github.io/Podcasts/world_news/audio/2026-05-04-aec796a5.mp3</guid>
+      <enclosure url="https://CHANGE_ME.github.io/Podcasts/world_news/audio/2026-05-04-aec796a5.mp3" length="5408895" type="audio/mpeg"/>
+      <pubDate>Mon, 04 May 2026 06:00:00 +0000</pubDate>
+      <itunes:duration>11:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
