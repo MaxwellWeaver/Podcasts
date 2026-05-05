@@ -37,7 +37,6 @@ class ClaudeCLIClient(LLMClient):
         self.cfg = cfg
         self.cli_path = cfg.llm.cli_path
         self.tiers = cfg.llm.tiers
-        self.timeout = cfg.llm.timeout_sec
         self.retries = cfg.llm.retries
         self.backoff = cfg.llm.retry_backoff_sec
         self.log_path = log_path  # JSONL of every call, for debugging + cost tracking
@@ -71,7 +70,7 @@ class ClaudeCLIClient(LLMClient):
                     capture_output=True,
                     text=True,
                     encoding="utf-8",
-                    timeout=self.timeout,
+                    timeout=self.cfg.llm.timeout_for(tier),
                     check=False,
                 )
                 elapsed = time.monotonic() - t0

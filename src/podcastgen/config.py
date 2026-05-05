@@ -18,9 +18,13 @@ class LLMConfig:
     backend: str
     cli_path: str
     tiers: dict[str, str]
-    timeout_sec: int = 300
+    # Per-tier timeouts in seconds. Falls back to 300s if a tier is missing.
+    timeouts_sec: dict[str, int] = field(default_factory=lambda: {"haiku": 300, "sonnet": 600, "opus": 900})
     retries: int = 3
     retry_backoff_sec: int = 5
+
+    def timeout_for(self, tier: str) -> int:
+        return int(self.timeouts_sec.get(tier, 300))
 
 
 @dataclass

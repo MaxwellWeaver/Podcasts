@@ -20,8 +20,13 @@ llm:
     haiku: claude-haiku-4-5
     sonnet: claude-sonnet-4-6
     opus: claude-opus-4-7
-  # Per-call timeouts and retries
-  timeout_sec: 300
+  # Per-tier timeouts. Sonnet writing a long script can take >5 min; Haiku
+  # batch ranks are usually <1 min. Per-tier prevents the script stage from
+  # spuriously retrying on a timeout that's actually about to succeed.
+  timeouts_sec:
+    haiku: 300
+    sonnet: 600
+    opus: 900
   retries: 3
   retry_backoff_sec: 5
 

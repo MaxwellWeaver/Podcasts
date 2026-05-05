@@ -16,8 +16,8 @@ sources:
     weight: 1.0
     max_items_per_run: 8
 
-  - name: Reuters World
-    url: https://feeds.reuters.com/Reuters/worldNews
+  - name: Reuters World (via Google News)
+    url: https://news.google.com/rss/search?q=when:2d+site:reuters.com+(world+OR+ukraine+OR+china+OR+iran+OR+israel)&hl=en-US&gl=US&ceid=US:en
     category: geopolitics
     weight: 1.2
     max_items_per_run: 8
@@ -40,11 +40,10 @@ sources:
     weight: 1.4
     max_items_per_run: 4
 
-  - name: ISW Russian Offensive Campaign Assessment
-    url: https://www.understandingwar.org/rss.xml
-    category: geopolitics
-    weight: 1.5
-    max_items_per_run: 3
+  # ISW (Institute for the Study of War) dropped their public RSS feed at some
+  # point. Their daily Russian Offensive Campaign Assessment is high-signal but
+  # would need a custom HTML scraper. Foreign Policy + War on the Rocks +
+  # Defense News substantially cover the same Ukraine/Russia ground.
 
   # --- Defense tech ---
   - name: Defense News
