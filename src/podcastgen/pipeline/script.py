@@ -10,41 +10,12 @@ from __future__ import annotations
 import json
 import textwrap
 
-from podcastgen.config import load_claude_md
+from podcastgen.config import load_claude_md, load_prompt
 from podcastgen.llm import make_client
 from podcastgen.pipeline.runner import RunContext
 from podcastgen.util.logging import get_logger
 
 log = get_logger(__name__)
-
-
-SCRIPT_INSTRUCTIONS = textwrap.dedent("""\
-    You are writing the spoken script for one episode of a personal podcast.
-    The output goes directly to a single-host TTS engine. The text you produce
-    IS what will be spoken — there is no editor between you and the listener.
-
-    Hard rules:
-      - Output ONLY the script body. No greeting, no markdown headings, no bullet
-        points, no stage directions, no "[INTRO]" markers, no metadata block.
-      - Section breaks are blank lines. That is all.
-      - Spell out numbers and dates ("twenty twenty six", "May fourth").
-      - When the context bundle shows prior coverage of a topic, reference it
-        explicitly ("This is the third Black Sea fleet strike this month.").
-      - Do not invent facts beyond what the ranked items and context provide.
-
-    After the script, on a new line, output exactly one blank line, then a JSON
-    object on a single line with the following keys:
-        {"title": "<short episode title>", "brief": "<1-2 sentence human summary>",
-         "topics": ["[[Topic A]]", "[[Topic B]]"],
-         "entities": [{"name": "Volodymyr Zelensky", "kind": "person"}, ...]}
-
-    Wrap that JSON in fences exactly like:
-        ```meta
-        {...}
-        ```
-
-    Nothing else after the meta block.
-""")
 
 
 def run_script(ctx: RunContext) -> None:
@@ -54,7 +25,9 @@ def run_script(ctx: RunContext) -> None:
     claude_md = load_claude_md()
 
     user_prompt = _build_script_prompt(ctx.feed, feed_cfg, ranked, context_md)
-    system = claude_md + "\n\n---\n\n" + SCRIPT_INSTRUCTIONS
+    # Editorial voice (CLAUDE.md, the user's per-episode tuning lever) +
+    # task mechanics (prompts/script.md, the structural instructions).
+    system = claude_md + "\n\n---\n\n" + load_prompt("script")
 
     client = make_client(ctx.cfg, log_path=ctx.work_dir / "llm_calls.jsonl")
     resp = client.complete(

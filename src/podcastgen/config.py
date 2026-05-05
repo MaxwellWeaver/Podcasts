@@ -10,6 +10,7 @@ import yaml
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 CONFIG_DIR = PROJECT_ROOT / "config"
+PROMPTS_DIR = PROJECT_ROOT / "prompts"
 
 
 @dataclass
@@ -123,5 +124,10 @@ def load_pronunciations() -> dict[str, Any]:
 
 
 def load_claude_md() -> str:
-    """Load CLAUDE.md as a string for injection into script prompts."""
+    """Load CLAUDE.md as a string for injection into the script prompt."""
     return (PROJECT_ROOT / "CLAUDE.md").read_text(encoding="utf-8")
+
+
+def load_prompt(name: str) -> str:
+    """Load a per-task prompt from prompts/<name>.md (e.g. 'rank', 'summarize', 'script')."""
+    return (PROMPTS_DIR / f"{name}.md").read_text(encoding="utf-8")

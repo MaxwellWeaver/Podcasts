@@ -1,6 +1,18 @@
 # Editorial Guidance for Podcast Scripts
 
-This file is **injected verbatim into every script-writing prompt**. It is the main lever for tuning the podcast voice between episodes. Append corrections here after each listen.
+This file is the **editorial voice** for the script-writing stage — tone,
+anti-patterns, calibration. It is concatenated with `prompts/script.md` (which
+handles structural mechanics) and injected as the system prompt for every
+Sonnet script call. Append corrections here after each listen.
+
+Other LLM tasks have their own prompt files in `prompts/`:
+- `prompts/rank.md` — Haiku news-editor scoring rubric
+- `prompts/summarize.md` — Haiku per-topic/per-entity vault summarizer
+- `prompts/script.md` — Sonnet script writer's structural mechanics
+
+This file (CLAUDE.md) is the one you'll edit most. The others are stable
+craft-of-the-task instructions; touch them only when you want to change *what*
+the task does, not *how it sounds*.
 
 ---
 

@@ -27,10 +27,14 @@ python -m podcastgen run world_news --from-stage tts # resume mid-pipeline
 
 ## Tuning between episodes
 
-Two main levers:
+In rough order of how often you'll touch them:
 
-1. `CLAUDE.md` — voice, structure, anti-patterns. Appended to every script-writing prompt.
-2. `config/pronunciations.yaml` — Kokoro substitution rules for names/acronyms.
+1. `CLAUDE.md` — **editorial voice** for the script writer (tone, anti-patterns, calibration log). Appended verbatim to every Sonnet script prompt. Most-touched file.
+2. `config/pronunciations.yaml` — Kokoro substitution rules for names/acronyms. Append fixes after each listen.
+3. `prompts/script.md` — script writer's **structural** instructions (section structure, length targets, output format). Touch when you want to change shape, not voice.
+4. `prompts/rank.md` — Haiku news-editor scoring rubric. Touch if you find the ranker is missing or over-rating items.
+5. `prompts/summarize.md` — Haiku per-topic / per-entity vault summarizer. Touch if vault summaries drift toward "general knowledge" rather than "what THIS episode added".
+6. `config/sources.<feed>.yaml` — feed list, weights, recency caps.
 
 ## Capacity
 

@@ -20,6 +20,7 @@ import secrets
 import textwrap
 from datetime import date
 
+from podcastgen.config import load_prompt
 from podcastgen.llm import make_client
 from podcastgen.pipeline.runner import RunContext
 from podcastgen.util.logging import get_logger
@@ -58,22 +59,6 @@ KIND_MAP: dict[str, EntityKind] = {
     "event": "concept",
     "program": "concept",
 }
-
-
-SUMMARY_SYSTEM = textwrap.dedent("""\
-    You are extracting per-topic and per-entity summaries from a podcast script.
-
-    For each topic and entity in the input, produce a single 1-2 sentence summary
-    of THIS episode's coverage of it — what specifically was said, what the new
-    development was, what the angle was. Do NOT summarize the topic/entity in
-    general — only what this episode added.
-
-    Return strict JSON with this exact shape:
-      {
-        "topics": {"<topic-wikilink-string>": "<summary>", ...},
-        "entities": {"<entity-name>": "<summary>", ...}
-      }
-""")
 
 
 def run_vault_update(ctx: RunContext) -> None:
@@ -202,7 +187,7 @@ def _generate_summaries(
     resp = client.complete(
         user_prompt,
         tier="haiku",
-        system=SUMMARY_SYSTEM,
+        system=load_prompt("summarize"),
         json_mode=True,
         max_tokens=4096,
     )

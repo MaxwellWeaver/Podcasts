@@ -9,30 +9,14 @@ Items below ranking.min_score are dropped here (we don't keep them).
 from __future__ import annotations
 
 import json
-import textwrap
 
+from podcastgen.config import load_prompt
 from podcastgen.llm import make_client
 from podcastgen.pipeline.runner import RunContext
 from podcastgen.sources.fetch import extract_article
 from podcastgen.util.logging import get_logger
 
 log = get_logger(__name__)
-
-
-SYSTEM = textwrap.dedent("""\
-    You are a senior news editor scoring items for a daily/weekly podcast.
-
-    For each item, score:
-      novelty (0-10): is this materially new information vs. what an informed listener
-                     would already know? 0 = stale rehash; 10 = breaking development.
-      importance (0-10): would the typical listener be wrong not to know this?
-                         0 = trivia; 10 = consequential.
-
-    Suggest a single topic slug as a wikilink string like "[[Ukraine-Russia war]]".
-    Use existing common-sense topics; do not invent ultra-specific ones.
-
-    Be terse. One-sentence reasoning per item, max.
-""")
 
 
 def run_rank(ctx: RunContext) -> None:
@@ -55,13 +39,14 @@ def run_rank(ctx: RunContext) -> None:
             it["body"] = it["body"][:body_cap]
 
     client = make_client(ctx.cfg, log_path=ctx.work_dir / "llm_calls.jsonl")
+    system = load_prompt("rank")
 
     batch_size = ctx.cfg.ranking.haiku_batch_size
     ranked: list[dict] = []
     for start in range(0, len(items), batch_size):
         batch = items[start:start + batch_size]
         prompt = _build_rank_prompt(batch)
-        resp = client.complete(prompt, tier="haiku", system=SYSTEM, json_mode=True, max_tokens=4096)
+        resp = client.complete(prompt, tier="haiku", system=system, json_mode=True, max_tokens=4096)
         try:
             scores = json.loads(resp.text)
         except json.JSONDecodeError:
