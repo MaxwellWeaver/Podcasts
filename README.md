@@ -34,7 +34,20 @@ Two main levers:
 
 ## Capacity
 
-Voice-only mono MP3 at 64 kbps. Daily news ≈7 MB/ep, weekly AI ≈12 MB/ep → ~3.2 GB/year. GitHub repo soft limit is 1 GB; first warning around month 4. Migration: move audio to Cloudflare R2 (10 GB free, no egress), flip `audio_base_url` in `config/config.yaml`, regenerate feeds. GUIDs unchanged → no duplicate episodes.
+Voice-only mono MP3 at 64 kbps. Daily news ≈5–7 MB/ep, weekly AI ≈12 MB/ep → ~3.2 GB/year. GitHub repo soft limit is 1 GB; first warning around month 4.
+
+Tripwire: `python scripts/check_repo_size.py` warns at 800 MB and 950 MB. Add it to your monthly habit, or wire it into the deploy step.
+
+### R2 migration playbook (when the tripwire fires)
+
+The pipeline is wired so this is a one-flag move:
+
+1. Create a Cloudflare account + R2 bucket (10 GB free; no egress fees). Enable the public R2.dev URL on the bucket, or attach a custom subdomain.
+2. `rclone copy docs/ r2:<bucket-name>/` (or any S3-compatible client) to seed the bucket with all current MP3s.
+3. Edit `config/config.yaml`: change `audio_base_url:` to your R2 public URL.
+4. `python -m podcastgen run world_news --from-stage feed` regenerates `feed.xml` with R2-pointing enclosures. Episode GUIDs are the audio URLs, which DO change — so podcast apps will treat them as new episodes. To avoid that, either (a) accept the dupe for one cycle, or (b) one-shot regenerate `feed.xml` with the OLD GUIDs preserved by setting `feed.preserve_guids: true` (TODO if needed).
+5. Once verified, delete `docs/<feed>/audio/` from the repo to reclaim the GB.
+6. Future episodes write to R2 (TODO: add an `audio_storage: r2` config and an `s3` client in the feed stage when needed). Until that's wired, the manual flow is: render locally → upload MP3 to R2 → run feed regen.
 
 ## Setup (first time)
 
@@ -50,7 +63,38 @@ Then edit `config/config.yaml` to set `audio_base_url` to your GitHub Pages URL,
 
 ## Scheduling
 
+Run the included PowerShell installer once to set up Task Scheduler:
+
 ```
-schtasks /Create /TN "Podcast - World News" /TR "<repo>\.venv\Scripts\python.exe -m podcastgen run world_news" /SC DAILY /ST 06:00 /RL HIGHEST /F
-schtasks /Create /TN "Podcast - AI Weekly"  /TR "<repo>\.venv\Scripts\python.exe -m podcastgen run ai"          /SC WEEKLY /D MON /ST 06:30 /RL HIGHEST /F
+powershell -ExecutionPolicy Bypass -File scripts/install_scheduled_tasks.ps1
 ```
+
+Defaults: World News daily at 06:00, AI Weekly Mondays at 06:30. Edit the `.ps1` to change.
+
+Manual trigger / verify / remove:
+
+```
+schtasks /Run    /TN "Podcast - World News"
+schtasks /Query  /TN "Podcast - World News"
+schtasks /Delete /TN "Podcast - World News" /F
+```
+
+Optional desktop notification on completion: `pip install -e .[notify]` and set `notify_on_complete: true` in `config/config.yaml` (default).
+
+## Subscribing on your phone
+
+The feed lives at:
+
+```
+https://maxwellweaver.github.io/Podcasts/world_news/feed.xml
+https://maxwellweaver.github.io/Podcasts/ai/feed.xml
+```
+
+Add by URL in any podcast app that supports it:
+- **Pocket Casts** (iOS / Android): Discover → search icon → enter URL
+- **AntennaPod** (Android): + → Add Podcast → Add via URL
+- **Overcast** (iOS): + → Add URL
+
+Apple Podcasts won't accept arbitrary URLs without submission — use Pocket Casts on iOS instead.
+
+Validate the feed structure with [podba.se/validate](https://podba.se/validate/) before troubleshooting in an app.

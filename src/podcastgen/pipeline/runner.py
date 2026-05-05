@@ -53,7 +53,12 @@ def run(feed: str, cfg: Config, *, from_stage: str = "gather", dry_run: bool = F
         log.info("--- stage: %s ---", stage)
         _dispatch(stage, ctx)
 
-    log.info("run done in %s", datetime.now() - started)
+    elapsed = datetime.now() - started
+    log.info("run done in %s", elapsed)
+    if cfg.notify_on_complete and not dry_run:
+        from podcastgen.util.notify import toast
+        toast(f"Podcast: {feed} done",
+              f"{ctx.run_date.isoformat()} episode shipped in {elapsed}.")
 
 
 def _dispatch(stage: str, ctx: RunContext) -> None:
