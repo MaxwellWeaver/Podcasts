@@ -12,6 +12,8 @@ venv/
 # The canonical episode lives in vault/episodes/; the working dir is scratch.
 episodes/
 logs/
+*Log*.txt
+*.log
 
 # OS / editor
 .DS_Store
