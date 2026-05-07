@@ -8,11 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 May 2026 15:58:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 16:17:43 +0000</lastBuildDate>
     <itunes:author>podcastgen</itunes:author>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Daily geopolitics, defense tech, and tech briefing. Generated locally.</itunes:summary>
+    <item>
+      <title>Hormuz Deal or War, Ukraine Ceasefire Collapse, China AI</title>
+      <description>The US-Iran ceasefire memorandum reaches a 48-hour deadline as France deploys its carrier to the Red Sea; Ukraine's Victory Day ceasefire collapses for the third straight cycle; China's open-source AI models are gaining global market share while the West watches benchmarks.</description>
+      <guid isPermaLink="false">https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-05-07-d1aebff3.mp3</guid>
+      <enclosure url="https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-05-07-d1aebff3.mp3" length="5716039" type="audio/mpeg"/>
+      <pubDate>Thu, 07 May 2026 06:00:00 +0000</pubDate>
+      <itunes:duration>11:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Iran deal signal, Ukraine ceasefire failure, Pakistan submarine</title>
       <description>Oil markets moved on reports of a potential US-Iran framework deal even as Iran continued striking UAE targets and Hormuz shipping; Russia rejected Ukraine's unilateral ceasefire with drone attacks; Pakistan commissioned its first Chinese submarine, reshaping South Asian naval balance.</description>

@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-06'
-mentions: 2
+last_seen: '2026-05-07'
+mentions: 3
 ---
 
 # Donald Trump
@@ -17,3 +17,7 @@ _2026-05-04:_ Not mentioned in this episode.
 _2026-05-06:_ Beijing's official read characterizes his promised Indo-Pacific pivot as burned away by the current Middle East conflict.
 
 - [[2026-05-06 iran-deal-signal-ukraine-ceasefire-failure-pakistan-submarine]]
+
+_2026-05-07:_ Trump's public posture on Iran negotiations was direct: agree to ceasefire terms or bombing would resume at greater intensity. Trump-Xi summit is on near-term calendar with Taiwan and trade as live variables.
+
+- [[2026-05-07 hormuz-deal-or-war-ukraine-ceasefire-collapse-china-ai]]
