@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-07'
-mentions: 3
+last_seen: '2026-05-08'
+mentions: 4
 ---
 
 # Donald Trump
@@ -21,3 +21,7 @@ _2026-05-06:_ Beijing's official read characterizes his promised Indo-Pacific pi
 _2026-05-07:_ Trump's public posture on Iran negotiations was direct: agree to ceasefire terms or bombing would resume at greater intensity. Trump-Xi summit is on near-term calendar with Taiwan and trade as live variables.
 
 - [[2026-05-07 hormuz-deal-or-war-ukraine-ceasefire-collapse-china-ai]]
+
+_2026-05-08:_ Called May 8 US-Iran exchanges a 'love tap'; stated 'we don't need their help in drone defense' regarding Ukraine, contradicted by actual US requests for Ukrainian counter-drone assistance.
+
+- [[2026-05-08 hormuz-escalation-ceasefire-theater-and-the-chokepoint-template]]
