@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-07'
-mentions: 3
+last_seen: '2026-05-14'
+mentions: 4
 ---
 
 # Iran
@@ -21,3 +21,7 @@ _2026-05-06:_ Close to one-page framework with US for ending active hostilities 
 _2026-05-07:_ Iran's parliament dismissed the fourteen-point ceasefire draft as a 'wish list,' but the foreign ministry indicated it would share response through Pakistani channels—signaling operational engagement despite public rejection. The forty-eight-hour response window expires shortly.
 
 - [[2026-05-07 hormuz-deal-or-war-ukraine-ceasefire-collapse-china-ai]]
+
+_2026-05-14:_ Functionally closed Strait of Hormuz since late February through drone strikes and insurance withdrawal; now selectively allows Chinese tankers through while blocking Western-linked shipments.
+
+- [[2026-05-14 japan-fires-from-philippine-soil-pentagon-plans-mass-missiles]]

@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-08'
-mentions: 4
+last_seen: '2026-05-14'
+mentions: 5
 ---
 
 # Donald Trump
@@ -25,3 +25,7 @@ _2026-05-07:_ Trump's public posture on Iran negotiations was direct: agree to c
 _2026-05-08:_ Called May 8 US-Iran exchanges a 'love tap'; stated 'we don't need their help in drone defense' regarding Ukraine, contradicted by actual US requests for Ukrainian counter-drone assistance.
 
 - [[2026-05-08 hormuz-escalation-ceasefire-theater-and-the-chokepoint-template]]
+
+_2026-05-14:_ In Beijing for summit with Xi; brought tech CEO delegation including Jensen Huang and Elon Musk; White House states both leaders agreed strait must remain open.
+
+- [[2026-05-14 japan-fires-from-philippine-soil-pentagon-plans-mass-missiles]]

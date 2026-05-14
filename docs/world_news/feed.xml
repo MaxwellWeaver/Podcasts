@@ -8,11 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 May 2026 16:31:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 15:33:52 +0000</lastBuildDate>
     <itunes:author>podcastgen</itunes:author>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Daily geopolitics, defense tech, and tech briefing. Generated locally.</itunes:summary>
+    <item>
+      <title>Japan Fires from Philippine Soil, Pentagon Plans Mass Missiles</title>
+      <description>Japan fires anti-ship missiles from the Philippines for the first time since World War Two, activating First Island Chain deterrence as the Pentagon announces ten thousand low-cost cruise missiles. The Strait of Hormuz remains selectively open for Chinese vessels as Trump meets Xi in Beijing.</description>
+      <guid isPermaLink="false">https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-05-14-abf1790c.mp3</guid>
+      <enclosure url="https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-05-14-abf1790c.mp3" length="5846351" type="audio/mpeg"/>
+      <pubDate>Thu, 14 May 2026 06:00:00 +0000</pubDate>
+      <itunes:duration>12:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Hormuz Escalation, Ceasefire Theater, and the Chokepoint Template</title>
       <description>US and Iran exchange fire in the Strait of Hormuz as Navy F/A-18s disable tankers with smokestack bombs; Ukraine's counter-drone expertise reshapes global security architecture while a fourth ceasefire cycle collapses ahead of Victory Day.</description>

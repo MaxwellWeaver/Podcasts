@@ -3,8 +3,8 @@ type: entity
 kind: org
 aliases: []
 first_seen: '2026-05-05'
-last_seen: '2026-05-05'
-mentions: 1
+last_seen: '2026-05-14'
+mentions: 2
 ---
 
 # Anthropic
@@ -13,3 +13,7 @@ _2026-05-05:_ Jack Clark assigns sixty percent or better odds to fully autonomou
 
 ## Recent appearances
 - [[2026-05-05 the-twenty-twenty-eight-threshold]]
+
+_2026-05-14:_ Claude Mythos model withheld from public release due to vulnerability-finding capability; independent assessment showed it comparable to GPT-5.5.
+
+- [[2026-05-14 japan-fires-from-philippine-soil-pentagon-plans-mass-missiles]]
