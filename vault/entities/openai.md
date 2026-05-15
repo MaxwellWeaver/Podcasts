@@ -3,8 +3,8 @@ type: entity
 kind: org
 aliases: []
 first_seen: '2026-05-05'
-last_seen: '2026-05-05'
-mentions: 1
+last_seen: '2026-05-15'
+mentions: 2
 ---
 
 # OpenAI
@@ -13,3 +13,7 @@ _2026-05-05:_ Announced Stargate infrastructure buildout scaled to capability tr
 
 ## Recent appearances
 - [[2026-05-05 the-twenty-twenty-eight-threshold]]
+
+_2026-05-15:_ Disclosed TanStack supply chain attack ('Mini Shai-Hulud') requiring macOS app certificate rotation with June twelfth deadline; quietly deprecated finetuning APIs, shifting market toward in-context learning and architectural modularity.
+
+- [[2026-05-15 supply-chain-open-ecosystems-and-the-reliability-gap]]

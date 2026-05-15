@@ -8,11 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 16:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 16:14:18 +0000</lastBuildDate>
     <itunes:author>podcastgen</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Weekly state-of-the-art AI capabilities briefing. Generated locally.</itunes:summary>
+    <item>
+      <title>Supply chain, open ecosystems, and the reliability gap</title>
+      <description>A TanStack npm supply chain attack threatening OpenAI's signing certificates opens a week of AI news about where the field's reliability boundaries actually are — from contaminated benchmarks and invisible orchestrators to clinical AI errors documented by auditors and a new governance framework for the age of powerful AI.</description>
+      <guid isPermaLink="false">https://maxwellweaver.github.io/Podcasts/ai/audio/2026-05-15-64b15070.mp3</guid>
+      <enclosure url="https://maxwellweaver.github.io/Podcasts/ai/audio/2026-05-15-64b15070.mp3" length="11911153" type="audio/mpeg"/>
+      <pubDate>Fri, 15 May 2026 06:00:00 +0000</pubDate>
+      <itunes:duration>24:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>The twenty twenty-eight threshold</title>
       <description>Jack Clark assigns sixty percent or better odds to fully autonomous AI R&amp;D by end of twenty twenty-eight — this week covers that analysis alongside new benchmarks for military AI compliance, AIGC detector evasion, hidden fine-tuning detection, and what the cumulative safety research picture implies for the governance window.</description>
