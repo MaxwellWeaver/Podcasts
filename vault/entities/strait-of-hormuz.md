@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-06'
-last_seen: '2026-05-14'
-mentions: 4
+last_seen: '2026-05-15'
+mentions: 5
 ---
 
 # Strait of Hormuz
@@ -25,3 +25,7 @@ _2026-05-08:_ Site of May 8 kinetic exchanges; chokepoint warfare mechanism demo
 _2026-05-14:_ Traffic collapsed 80% since late February; Iran now operates two-tier system allowing Chinese vessels through while blocking Western shipments.
 
 - [[2026-05-14 japan-fires-from-philippine-soil-pentagon-plans-mass-missiles]]
+
+_2026-05-15:_ Traffic collapsed 80% since late February from 56 tankers per day to 7; Iran created a two-tier system allowing Chinese-linked tankers while blocking Western shipping, and a UK and France-led coalition of potentially 40 nations is forming to reopen it once a ceasefire is declared.
+
+- [[2026-05-15 beijing-summit-readout-gap-and-the-iran-arsenal-dispute]]

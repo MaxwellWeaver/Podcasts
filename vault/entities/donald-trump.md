@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-14'
-mentions: 5
+last_seen: '2026-05-15'
+mentions: 6
 ---
 
 # Donald Trump
@@ -29,3 +29,7 @@ _2026-05-08:_ Called May 8 US-Iran exchanges a 'love tap'; stated 'we don't need
 _2026-05-14:_ In Beijing for summit with Xi; brought tech CEO delegation including Jensen Huang and Elon Musk; White House states both leaders agreed strait must remain open.
 
 - [[2026-05-14 japan-fires-from-philippine-soil-pentagon-plans-mass-missiles]]
+
+_2026-05-15:_ Met Xi Jinping in Beijing on Thursday in the first U.S. presidential visit to China in nearly a decade; said he discussed arms sales to Taiwan with Xi but omitted it from the official U.S. readout. Floated lifting sanctions on Chinese companies purchasing Iranian oil and dismissed Iran's latest proposal as 'garbage.'
+
+- [[2026-05-15 beijing-summit-readout-gap-and-the-iran-arsenal-dispute]]

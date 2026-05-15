@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-07'
-mentions: 3
+last_seen: '2026-05-15'
+mentions: 4
 ---
 
 # Ukraine
@@ -21,3 +21,7 @@ _2026-05-06:_ Announced unilateral ceasefire lasting less than 24 hours; drones 
 _2026-05-07:_ Ukraine's IMF growth forecast was downgraded from 4.5% to 2.0% for 2026. Ukraine's top peace negotiator arrived in Miami on Thursday for talks, a venue suggesting deeper US involvement than publicly confirmed.
 
 - [[2026-05-07 hormuz-deal-or-war-ukraine-ceasefire-collapse-china-ai]]
+
+_2026-05-15:_ Secured first legal channel to sell weapons to the U.S. through State Department memorandum; signed 4 bilateral export contracts and pursuing roughly 20 more across Middle East and partner nations. Plans to purchase 25,000 unmanned ground vehicles by end of June; combat-validated drone expertise now becoming export product after 4 years of iteration.
+
+- [[2026-05-15 beijing-summit-readout-gap-and-the-iran-arsenal-dispute]]
