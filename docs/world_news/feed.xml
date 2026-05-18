@@ -8,11 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 15:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 14:54:47 +0000</lastBuildDate>
     <itunes:author>podcastgen</itunes:author>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Daily geopolitics, defense tech, and tech briefing. Generated locally.</itunes:summary>
+    <item>
+      <title>Iran Talks Stall, Flotilla Intercepted Again, Ebola Emergency</title>
+      <description>Pakistan mediates Iran war negotiations as Trump escalates threats and delivers a second flotilla interception near Cyprus; WHO declares an Ebola emergency as six Americans are evacuated from DR Congo.</description>
+      <guid isPermaLink="false">https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-05-18-06592dd4.mp3</guid>
+      <enclosure url="https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-05-18-06592dd4.mp3" length="6057761" type="audio/mpeg"/>
+      <pubDate>Mon, 18 May 2026 06:00:00 +0000</pubDate>
+      <itunes:duration>12:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Beijing Summit Readout Gap and the Iran Arsenal Dispute</title>
       <description>Trump and Xi leave Beijing with sharply divergent accounts of what was said about Taiwan, while a classified intelligence leak and CENTCOM testimony offer contradictory pictures of how much of Iran's military survived the U.S. bombing campaign.</description>

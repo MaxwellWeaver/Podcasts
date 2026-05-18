@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-15'
-mentions: 6
+last_seen: '2026-05-18'
+mentions: 7
 ---
 
 # Donald Trump
@@ -33,3 +33,7 @@ _2026-05-14:_ In Beijing for summit with Xi; brought tech CEO delegation includi
 _2026-05-15:_ Met Xi Jinping in Beijing on Thursday in the first U.S. presidential visit to China in nearly a decade; said he discussed arms sales to Taiwan with Xi but omitted it from the official U.S. readout. Floated lifting sanctions on Chinese companies purchasing Iranian oil and dismissed Iran's latest proposal as 'garbage.'
 
 - [[2026-05-15 beijing-summit-readout-gap-and-the-iran-arsenal-dispute]]
+
+_2026-05-18:_ Posted threats that Iran's clock was ticking and there would be nothing left; told Netanyahu the ceasefire was on 'massive life support' after rejecting Iran's initial demands as 'totally unacceptable.'
+
+- [[2026-05-18 iran-talks-stall-flotilla-intercepted-again-ebola-emergency]]
