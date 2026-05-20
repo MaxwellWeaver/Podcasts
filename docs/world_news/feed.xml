@@ -8,11 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 03:24:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 15:35:02 +0000</lastBuildDate>
     <itunes:author>podcastgen</itunes:author>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Daily geopolitics, defense tech, and tech briefing. Generated locally.</itunes:summary>
+    <item>
+      <title>Russia Nuclear Drill, NATO Autonomous Zone, Salt Typhoon Doctrine</title>
+      <description>Russia launches its largest unannounced nuclear exercise in years, NATO operationalizes autonomous-systems doctrine on its eastern flank, and China's Salt Typhoon campaign signals a fundamental shift toward data-centric intelligence advantage. Plus: Taiwan's $14B arms deal hangs in uncertainty after Trump's Beijing summit.</description>
+      <guid isPermaLink="false">https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-05-20-6b86e04a.mp3</guid>
+      <enclosure url="https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-05-20-6b86e04a.mp3" length="6673933" type="audio/mpeg"/>
+      <pubDate>Wed, 20 May 2026 06:00:00 +0000</pubDate>
+      <itunes:duration>13:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>NATO Retrenchment, Estonia Drone Shootdown, and the Putin-Xi Summit</title>
       <description>The Trump administration formally notifies NATO allies of reduced U.S. force commitments as Europe confronts a Romanian F-16 shootdown of a Ukrainian drone over Estonia and Reuters reports China covertly trained Russian forces fighting in Ukraine. The Senate advances a War Powers Resolution on Iran with rare Republican support.</description>

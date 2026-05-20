@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-19'
-mentions: 3
+last_seen: '2026-05-20'
+mentions: 4
 ---
 
 # Russia
@@ -21,3 +21,7 @@ _2026-05-06:_ Ignored Ukraine's unilateral ceasefire, attacking kindergarten in 
 _2026-05-19:_ Putin in Beijing for summit; ground forces received covert Chinese military training as revealed by Reuters, showing structural military integration. Foreign intelligence service issued martial threats against Latvia.
 
 - [[2026-05-19 nato-retrenchment-estonia-drone-shootdown-and-the-putin-xi-summit]]
+
+_2026-05-20:_ Russia launched its largest nuclear exercises in years with 65,000 troops, 200+ missile launchers, 140 aircraft, 73 surface ships, and 13 submarines (8 strategic nuclear) in a surprise three-day drill announced May nineteenth, assessed by ISW as aimed at influencing NATO decision-making.
+
+- [[2026-05-20 russia-nuclear-drill-nato-autonomous-zone-salt-typhoon-doctrine]]

@@ -3,8 +3,8 @@ type: entity
 kind: org
 aliases: []
 first_seen: '2026-05-15'
-last_seen: '2026-05-19'
-mentions: 2
+last_seen: '2026-05-20'
+mentions: 3
 ---
 
 # NATO
@@ -17,3 +17,7 @@ _2026-05-15:_ Conducted largest joint U.S.-allied missile exercises ever in the 
 _2026-05-19:_ Receiving formal U.S. Force Model reduction Friday in Brussels; Romania's F-16 shot down Ukrainian drone over Estonia Tuesday, straining alliance coherence on day Washington formalizes conventional withdrawal.
 
 - [[2026-05-19 nato-retrenchment-estonia-drone-shootdown-and-the-putin-xi-summit]]
+
+_2026-05-20:_ NATO operationalized the Eastern Flank Deterrence Initiative (EFDI) envisioning a forward zone where only unmanned systems operate to detect and target invading forces before humans enter the kill zone.
+
+- [[2026-05-20 russia-nuclear-drill-nato-autonomous-zone-salt-typhoon-doctrine]]

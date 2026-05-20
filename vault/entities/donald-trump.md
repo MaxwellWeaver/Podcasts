@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-19'
-mentions: 8
+last_seen: '2026-05-20'
+mentions: 9
 ---
 
 # Donald Trump
@@ -41,3 +41,7 @@ _2026-05-18:_ Posted threats that Iran's clock was ticking and there would be no
 _2026-05-19:_ Administration formally reducing NATO Force Model commitments via announcement Friday in Brussels; canceled Poland brigade rotation. Publicly champions Iran campaign, which Senate now seeks to constrain. Trump-Xi summit preceded Putin's Beijing visit, positioning Xi between American and Russian strategic calculations.
 
 - [[2026-05-19 nato-retrenchment-estonia-drone-shootdown-and-the-putin-xi-summit]]
+
+_2026-05-20:_ Trump's Beijing summit readout omitted Taiwan entirely, creating strategic ambiguity that now leaves a $14 billion arms package for Taiwan in question.
+
+- [[2026-05-20 russia-nuclear-drill-nato-autonomous-zone-salt-typhoon-doctrine]]

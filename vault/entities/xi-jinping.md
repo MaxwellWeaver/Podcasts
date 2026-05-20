@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-14'
-last_seen: '2026-05-19'
-mentions: 3
+last_seen: '2026-05-20'
+mentions: 4
 ---
 
 # Xi Jinping
@@ -21,3 +21,7 @@ _2026-05-15:_ Told Trump on camera in Beijing that Taiwanese independence and pe
 _2026-05-19:_ Met Trump in Beijing days before receiving Putin Tuesday, positioning China at center of both American and Russian strategic calculations. Reuters reports military personnel under his command covertly trained Russian forces fighting in Ukraine despite official neutrality claims.
 
 - [[2026-05-19 nato-retrenchment-estonia-drone-shootdown-and-the-putin-xi-summit]]
+
+_2026-05-20:_ Xi signed a 47-page joint declaration with Putin and more than twenty bilateral agreements on trade and technology, and publicly warned during the Trump summit that Taiwanese independence and peace are 'irreconcilable as fire and water.'
+
+- [[2026-05-20 russia-nuclear-drill-nato-autonomous-zone-salt-typhoon-doctrine]]
