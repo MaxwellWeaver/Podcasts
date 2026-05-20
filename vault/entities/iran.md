@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-18'
-mentions: 6
+last_seen: '2026-05-19'
+mentions: 7
 ---
 
 # Iran
@@ -33,3 +33,7 @@ _2026-05-15:_ Foreign minister said the country has 'no trust' in Washington and
 _2026-05-18:_ Passed revised peace proposal through Pakistan on Sunday-Monday (third exchange in three weeks); state media reported US offered no concrete concessions, with stock market reopening Tuesday-Wednesday as first domestic confidence signal after closure since February 28th.
 
 - [[2026-05-18 iran-talks-stall-flotilla-intercepted-again-ebola-emergency]]
+
+_2026-05-19:_ Senate advanced War Powers Resolution 50-47 requiring congressional authorization for continued operations. Operation Epic Fury ongoing three months with most kinetic day in early May when Iranian missiles, drones, and boats targeted three U.S. Navy destroyers; peace memorandum negotiations appear stalled.
+
+- [[2026-05-19 nato-retrenchment-estonia-drone-shootdown-and-the-putin-xi-summit]]

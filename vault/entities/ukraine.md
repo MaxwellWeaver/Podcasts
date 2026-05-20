@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-15'
-mentions: 4
+last_seen: '2026-05-19'
+mentions: 5
 ---
 
 # Ukraine
@@ -25,3 +25,7 @@ _2026-05-07:_ Ukraine's IMF growth forecast was downgraded from 4.5% to 2.0% for
 _2026-05-15:_ Secured first legal channel to sell weapons to the U.S. through State Department memorandum; signed 4 bilateral export contracts and pursuing roughly 20 more across Middle East and partner nations. Plans to purchase 25,000 unmanned ground vehicles by end of June; combat-validated drone expertise now becoming export product after 4 years of iteration.
 
 - [[2026-05-15 beijing-summit-readout-gap-and-the-iran-arsenal-dispute]]
+
+_2026-05-19:_ Drone shot down over Estonia, apologized within two hours; incident reflects pressure on expanding unmanned systems network. Reuters reveals Chinese military covertly trained Russian forces now fighting against Ukrainian forces.
+
+- [[2026-05-19 nato-retrenchment-estonia-drone-shootdown-and-the-putin-xi-summit]]

@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-18'
-mentions: 7
+last_seen: '2026-05-19'
+mentions: 8
 ---
 
 # Donald Trump
@@ -37,3 +37,7 @@ _2026-05-15:_ Met Xi Jinping in Beijing on Thursday in the first U.S. presidenti
 _2026-05-18:_ Posted threats that Iran's clock was ticking and there would be nothing left; told Netanyahu the ceasefire was on 'massive life support' after rejecting Iran's initial demands as 'totally unacceptable.'
 
 - [[2026-05-18 iran-talks-stall-flotilla-intercepted-again-ebola-emergency]]
+
+_2026-05-19:_ Administration formally reducing NATO Force Model commitments via announcement Friday in Brussels; canceled Poland brigade rotation. Publicly champions Iran campaign, which Senate now seeks to constrain. Trump-Xi summit preceded Putin's Beijing visit, positioning Xi between American and Russian strategic calculations.
+
+- [[2026-05-19 nato-retrenchment-estonia-drone-shootdown-and-the-putin-xi-summit]]

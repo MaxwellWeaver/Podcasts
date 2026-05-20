@@ -2,8 +2,8 @@
 type: topic
 status: active
 first_seen: '2026-05-04'
-last_covered: '2026-05-15'
-mentions: 5
+last_covered: '2026-05-19'
+mentions: 6
 related_entities: []
 ---
 
@@ -21,9 +21,12 @@ _2026-05-08:_ Fourth ceasefire cycle collapsed following established pattern. Vi
 
 _2026-05-15:_ Ukraine secured its first legal channel to sell weapons to the U.S. through a State Department memorandum routing drone technology into joint ventures on American soil, signed 4 bilateral export contracts this week and pursuing roughly 20 more. At a NATO eastern-flank summit in Bucharest on May 13, Zelensky framed this as 'bilateral Drone Deals' using Europe's production capabilities and Ukrainian combat-validated expertise.
 
+_2026-05-19:_ Reuters reports Chinese military personnel covertly trained Russian forces now fighting in Ukraine, revealing direct military-to-military knowledge transfer during active conflict despite Beijing's official neutrality claims.
+
 ## Episode log
 - 2026-05-04 — 2026-05-04 ukraine-s-air-defense-hangs-on-iran
 - 2026-05-06 — 2026-05-06 iran-deal-signal-ukraine-ceasefire-failure-pakistan-submarine
 - 2026-05-07 — 2026-05-07 hormuz-deal-or-war-ukraine-ceasefire-collapse-china-ai
 - 2026-05-08 — 2026-05-08 hormuz-escalation-ceasefire-theater-and-the-chokepoint-template
 - 2026-05-15 — 2026-05-15 beijing-summit-readout-gap-and-the-iran-arsenal-dispute
+- 2026-05-19 — 2026-05-19 nato-retrenchment-estonia-drone-shootdown-and-the-putin-xi-summit

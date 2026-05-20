@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-06'
-last_seen: '2026-05-14'
-mentions: 2
+last_seen: '2026-05-19'
+mentions: 3
 ---
 
 # China
@@ -17,3 +17,7 @@ _2026-05-06:_ Providing advanced air-independent propulsion submarines to Pakist
 _2026-05-14:_ Tanker received Iranian clearance to transit Strait; benefiting from two-tier system; question in Trump-Xi talks whether will trade preferred strait access for semiconductor or Taiwan policy concessions.
 
 - [[2026-05-14 japan-fires-from-philippine-soil-pentagon-plans-mass-missiles]]
+
+_2026-05-19:_ Military personnel covertly trained Russian forces now fighting in Ukraine, revealing depth of military integration despite official neutrality. Xi positioned between Trump and Putin summits; holds structural advantage in Russia relationship.
+
+- [[2026-05-19 nato-retrenchment-estonia-drone-shootdown-and-the-putin-xi-summit]]

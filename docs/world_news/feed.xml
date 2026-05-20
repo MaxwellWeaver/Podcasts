@@ -8,11 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 14:54:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 03:24:40 +0000</lastBuildDate>
     <itunes:author>podcastgen</itunes:author>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Daily geopolitics, defense tech, and tech briefing. Generated locally.</itunes:summary>
+    <item>
+      <title>NATO Retrenchment, Estonia Drone Shootdown, and the Putin-Xi Summit</title>
+      <description>The Trump administration formally notifies NATO allies of reduced U.S. force commitments as Europe confronts a Romanian F-16 shootdown of a Ukrainian drone over Estonia and Reuters reports China covertly trained Russian forces fighting in Ukraine. The Senate advances a War Powers Resolution on Iran with rare Republican support.</description>
+      <guid isPermaLink="false">https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-05-19-25a56829.mp3</guid>
+      <enclosure url="https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-05-19-25a56829.mp3" length="5594969" type="audio/mpeg"/>
+      <pubDate>Tue, 19 May 2026 06:00:00 +0000</pubDate>
+      <itunes:duration>11:38</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Iran Talks Stall, Flotilla Intercepted Again, Ebola Emergency</title>
       <description>Pakistan mediates Iran war negotiations as Trump escalates threats and delivers a second flotilla interception near Cyprus; WHO declares an Ebola emergency as six Americans are evacuated from DR Congo.</description>
