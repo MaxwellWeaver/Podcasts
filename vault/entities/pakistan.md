@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-06'
-last_seen: '2026-05-18'
-mentions: 2
+last_seen: '2026-05-21'
+mentions: 3
 ---
 
 # Pakistan
@@ -17,3 +17,7 @@ _2026-05-06:_ Commissioned first of eight Chinese 039A Yuan-class submarines on 
 _2026-05-18:_ Serves as backchannel for Iran-US negotiations (third exchange in three weeks) and deployed a jet squadron and thousands of troops to Saudi Arabia, signaling firm alignment with the coalition.
 
 - [[2026-05-18 iran-talks-stall-flotilla-intercepted-again-ebola-emergency]]
+
+_2026-05-21:_ Deployed eight thousand troops, fighter jet squadron, and air defense system to Saudi Arabia under mutual defense pact, undermining credibility as neutral mediator between Iran and Riyadh.
+
+- [[2026-05-21 iran-formalizes-hormuz-control-as-negotiations-stall-on-two-fronts]]

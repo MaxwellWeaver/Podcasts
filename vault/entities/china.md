@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-06'
-last_seen: '2026-05-20'
-mentions: 4
+last_seen: '2026-05-21'
+mentions: 5
 ---
 
 # China
@@ -25,3 +25,7 @@ _2026-05-19:_ Military personnel covertly trained Russian forces now fighting in
 _2026-05-20:_ China's Salt Typhoon campaign represents a strategic shift to 'machine overmatch' through broad-spectrum collection and system-level analysis, and Beijing banned Nvidia's RTX 5090D while strengthening strategic alignment with Russia through a 47-page joint declaration.
 
 - [[2026-05-20 russia-nuclear-drill-nato-autonomous-zone-salt-typhoon-doctrine]]
+
+_2026-05-21:_ Launched systematic campaign to shape UN-led AI governance frameworks with vice minister appearing at May fifth UN meeting; deploying lower-cost open-weight models to entrench Chinese technical assumptions globally; allows Chinese-linked tankers through Iranian Strait.
+
+- [[2026-05-21 iran-formalizes-hormuz-control-as-negotiations-stall-on-two-fronts]]

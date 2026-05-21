@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-06'
-last_seen: '2026-05-15'
-mentions: 5
+last_seen: '2026-05-21'
+mentions: 6
 ---
 
 # Strait of Hormuz
@@ -29,3 +29,7 @@ _2026-05-14:_ Traffic collapsed 80% since late February; Iran now operates two-t
 _2026-05-15:_ Traffic collapsed 80% since late February from 56 tankers per day to 7; Iran created a two-tier system allowing Chinese-linked tankers while blocking Western shipping, and a UK and France-led coalition of potentially 40 nations is forming to reopen it once a ceasefire is declared.
 
 - [[2026-05-15 beijing-summit-readout-gap-and-the-iran-arsenal-dispute]]
+
+_2026-05-21:_ Iran's newly established Persian Gulf Strait Authority claimed armed forces oversight extending into Omani and UAE territorial waters with all transit requiring authorization; traffic collapsed from fifty-six to seven tankers per day since late February.
+
+- [[2026-05-21 iran-formalizes-hormuz-control-as-negotiations-stall-on-two-fronts]]

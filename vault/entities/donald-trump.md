@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-20'
-mentions: 9
+last_seen: '2026-05-21'
+mentions: 10
 ---
 
 # Donald Trump
@@ -45,3 +45,7 @@ _2026-05-19:_ Administration formally reducing NATO Force Model commitments via 
 _2026-05-20:_ Trump's Beijing summit readout omitted Taiwan entirely, creating strategic ambiguity that now leaves a $14 billion arms package for Taiwan in question.
 
 - [[2026-05-20 russia-nuclear-drill-nato-autonomous-zone-salt-typhoon-doctrine]]
+
+_2026-05-21:_ Publicly dismissed Ukraine's military strength while his cabinet across four venues contradicted this assessment, deepening structural problems in American-led negotiation process.
+
+- [[2026-05-21 iran-formalizes-hormuz-control-as-negotiations-stall-on-two-fronts]]

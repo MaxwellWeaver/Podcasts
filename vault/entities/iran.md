@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-19'
-mentions: 7
+last_seen: '2026-05-21'
+mentions: 8
 ---
 
 # Iran
@@ -37,3 +37,7 @@ _2026-05-18:_ Passed revised peace proposal through Pakistan on Sunday-Monday (t
 _2026-05-19:_ Senate advanced War Powers Resolution 50-47 requiring congressional authorization for continued operations. Operation Epic Fury ongoing three months with most kinetic day in early May when Iranian missiles, drones, and boats targeted three U.S. Navy destroyers; peace memorandum negotiations appear stalled.
 
 - [[2026-05-19 nato-retrenchment-estonia-drone-shootdown-and-the-putin-xi-summit]]
+
+_2026-05-21:_ Established Persian Gulf Strait Authority claiming authority over 22,000+ square kilometers extending into Omani and UAE waters; signaled through Khamenei that enriched uranium must remain on Iranian soil; demonstrated enforcement through IRGC punishment strikes on tankers.
+
+- [[2026-05-21 iran-formalizes-hormuz-control-as-negotiations-stall-on-two-fronts]]

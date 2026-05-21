@@ -3,8 +3,8 @@ type: entity
 kind: org
 aliases: []
 first_seen: '2026-05-15'
-last_seen: '2026-05-20'
-mentions: 3
+last_seen: '2026-05-21'
+mentions: 4
 ---
 
 # NATO
@@ -21,3 +21,7 @@ _2026-05-19:_ Receiving formal U.S. Force Model reduction Friday in Brussels; Ro
 _2026-05-20:_ NATO operationalized the Eastern Flank Deterrence Initiative (EFDI) envisioning a forward zone where only unmanned systems operate to detect and target invading forces before humans enter the kill zone.
 
 - [[2026-05-20 russia-nuclear-drill-nato-autonomous-zone-salt-typhoon-doctrine]]
+
+_2026-05-21:_ Attributed Baltic airspace violations to Russian redirection of Ukrainian drones; NATO jet shot down suspected Ukrainian drone over Estonia, with incidents straining eastern flank response protocols.
+
+- [[2026-05-21 iran-formalizes-hormuz-control-as-negotiations-stall-on-two-fronts]]

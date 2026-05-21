@@ -2,8 +2,8 @@
 type: topic
 status: active
 first_seen: '2026-05-04'
-last_covered: '2026-05-19'
-mentions: 6
+last_covered: '2026-05-21'
+mentions: 7
 related_entities: []
 ---
 
@@ -23,6 +23,8 @@ _2026-05-15:_ Ukraine secured its first legal channel to sell weapons to the U.S
 
 _2026-05-19:_ Reuters reports Chinese military personnel covertly trained Russian forces now fighting in Ukraine, revealing direct military-to-military knowledge transfer during active conflict despite Beijing's official neutrality claims.
 
+_2026-05-21:_ The 'spirit of Anchorage' diplomatic framework collapsed on the Russian side, with Kremlin official Ushakov denying ever using the phrase. Both sides losing confidence in American intermediaries Witkoff and Kushner, while cabinet officials contradict Trump: Rubio called Ukraine 'the strongest, most powerful armed forces in all of Europe' citing five-to-one Russian casualty ratios, and Army Secretary Driscoll praised Ukraine's Delta command system as 'absolutely incredible' and superior to U.S. Army architecture.
+
 ## Episode log
 - 2026-05-04 — 2026-05-04 ukraine-s-air-defense-hangs-on-iran
 - 2026-05-06 — 2026-05-06 iran-deal-signal-ukraine-ceasefire-failure-pakistan-submarine
@@ -30,3 +32,4 @@ _2026-05-19:_ Reuters reports Chinese military personnel covertly trained Russia
 - 2026-05-08 — 2026-05-08 hormuz-escalation-ceasefire-theater-and-the-chokepoint-template
 - 2026-05-15 — 2026-05-15 beijing-summit-readout-gap-and-the-iran-arsenal-dispute
 - 2026-05-19 — 2026-05-19 nato-retrenchment-estonia-drone-shootdown-and-the-putin-xi-summit
+- 2026-05-21 — 2026-05-21 iran-formalizes-hormuz-control-as-negotiations-stall-on-two-fronts

@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-20'
-mentions: 4
+last_seen: '2026-05-21'
+mentions: 5
 ---
 
 # Russia
@@ -25,3 +25,7 @@ _2026-05-19:_ Putin in Beijing for summit; ground forces received covert Chinese
 _2026-05-20:_ Russia launched its largest nuclear exercises in years with 65,000 troops, 200+ missile launchers, 140 aircraft, 73 surface ships, and 13 submarines (8 strategic nuclear) in a surprise three-day drill announced May nineteenth, assessed by ISW as aimed at influencing NATO decision-making.
 
 - [[2026-05-20 russia-nuclear-drill-nato-autonomous-zone-salt-typhoon-doctrine]]
+
+_2026-05-21:_ Repudiated 'spirit of Anchorage' diplomatic framework with Kremlin official Ushakov denying ever using the phrase; losing confidence in American-led negotiation process.
+
+- [[2026-05-21 iran-formalizes-hormuz-control-as-negotiations-stall-on-two-fronts]]

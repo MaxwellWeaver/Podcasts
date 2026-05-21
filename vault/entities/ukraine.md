@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-19'
-mentions: 5
+last_seen: '2026-05-21'
+mentions: 6
 ---
 
 # Ukraine
@@ -29,3 +29,7 @@ _2026-05-15:_ Secured first legal channel to sell weapons to the U.S. through St
 _2026-05-19:_ Drone shot down over Estonia, apologized within two hours; incident reflects pressure on expanding unmanned systems network. Reuters reveals Chinese military covertly trained Russian forces now fighting against Ukrainian forces.
 
 - [[2026-05-19 nato-retrenchment-estonia-drone-shootdown-and-the-putin-xi-summit]]
+
+_2026-05-21:_ Cabinet officials reported five-to-one Russian casualty ratio and praised Delta command system integrating all drones, sensors, and weapons into single operational network as 'absolutely incredible' and superior to U.S. Army architecture; secured first legal channel to sell drone technology to U.S.
+
+- [[2026-05-21 iran-formalizes-hormuz-control-as-negotiations-stall-on-two-fronts]]
