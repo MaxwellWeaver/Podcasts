@@ -3,8 +3,8 @@ type: entity
 kind: org
 aliases: []
 first_seen: '2026-05-05'
-last_seen: '2026-05-15'
-mentions: 2
+last_seen: '2026-05-21'
+mentions: 3
 ---
 
 # OpenAI
@@ -17,3 +17,7 @@ _2026-05-05:_ Announced Stargate infrastructure buildout scaled to capability tr
 _2026-05-15:_ Disclosed TanStack supply chain attack ('Mini Shai-Hulud') requiring macOS app certificate rotation with June twelfth deadline; quietly deprecated finetuning APIs, shifting market toward in-context learning and architectural modularity.
 
 - [[2026-05-15 supply-chain-open-ecosystems-and-the-reliability-gap]]
+
+_2026-05-21:_ Reasoning model (believed GPT-5.6) solved the Erdős unit distance problem in under 32 hours for under $1000. Announced advances in content credentials and verification tools for identifying AI-generated media using C2PA standards.
+
+- [[2026-05-21 erdos-falls-google-io-and-the-ai-restructuring-wave]]

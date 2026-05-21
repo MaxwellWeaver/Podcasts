@@ -3,8 +3,8 @@ type: entity
 kind: org
 aliases: []
 first_seen: '2026-05-05'
-last_seen: '2026-05-15'
-mentions: 3
+last_seen: '2026-05-21'
+mentions: 4
 ---
 
 # Anthropic
@@ -21,3 +21,7 @@ _2026-05-14:_ Claude Mythos model withheld from public release due to vulnerabil
 _2026-05-15:_ Moved Claude's API access to metered credit model tied to subscription level, eliminating 75-85% historical subsidy and producing measurable competitive shifts toward Codex within three weeks.
 
 - [[2026-05-15 supply-chain-open-ecosystems-and-the-reliability-gap]]
+
+_2026-05-21:_ Signed Cloud Services Agreements with xAI for compute access at COLOSSUS and COLOSSUS II data centers at $1.25 billion per month through May 2029, representing a structural shift toward dedicated hardware infrastructure.
+
+- [[2026-05-21 erdos-falls-google-io-and-the-ai-restructuring-wave]]
