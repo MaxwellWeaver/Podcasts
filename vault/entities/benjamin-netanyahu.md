@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-18'
-mentions: 3
+last_seen: '2026-05-26'
+mentions: 4
 ---
 
 # Benjamin Netanyahu
@@ -21,3 +21,7 @@ _2026-05-14:_ Called emergency meeting demanding solutions from defense industry
 _2026-05-18:_ Described the Flotilla interception as neutralizing a plan to break the isolation imposed on Hamas.
 
 - [[2026-05-18 iran-talks-stall-flotilla-intercepted-again-ebola-emergency]]
+
+_2026-05-26:_ Ordered explicit intensification of Hezbollah strikes, publicly instructing forces to 'press the pedal even harder' rather than adapt to fiber-optic drone technology.
+
+- [[2026-05-26 iran-ceasefire-under-fire-nato-commitments-cut]]

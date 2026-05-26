@@ -3,8 +3,8 @@ type: entity
 kind: org
 aliases: []
 first_seen: '2026-05-18'
-last_seen: '2026-05-21'
-mentions: 3
+last_seen: '2026-05-26'
+mentions: 4
 ---
 
 # SpaceX
@@ -21,3 +21,7 @@ _2026-05-21:_ Filed S-1 with SEC for June twelfth IPO; FY2025 revenue $18.67 bil
 _2026-05-21:_ S-1 IPO filing disclosed Anthropic's compute deal with xAI for $1.25 billion per month through May 2029.
 
 - [[2026-05-21 erdos-falls-google-io-and-the-ai-restructuring-wave]]
+
+_2026-05-26:_ Subject of active Pentagon pricing dispute over Starlink service rates applied during the Iran conflict; the US military has built operational dependency on the commercial provider without contractual cost controls.
+
+- [[2026-05-26 iran-ceasefire-under-fire-nato-commitments-cut]]

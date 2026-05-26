@@ -8,11 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 15:24:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 15:12:03 +0000</lastBuildDate>
     <itunes:author>podcastgen</itunes:author>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Daily geopolitics, defense tech, and tech briefing. Generated locally.</itunes:summary>
+    <item>
+      <title>Iran Ceasefire Under Fire, NATO Commitments Cut</title>
+      <description>US strikes Iran during Doha peace talks, Netanyahu intensifies Lebanon bombardment, and Washington formally reduces the fighter jets and bombers it will provide NATO in a crisis — the week's compounding signals of US retrenchment.</description>
+      <guid isPermaLink="false">https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-05-26-4900952f.mp3</guid>
+      <enclosure url="https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-05-26-4900952f.mp3" length="6142119" type="audio/mpeg"/>
+      <pubDate>Tue, 26 May 2026 06:00:00 +0000</pubDate>
+      <itunes:duration>12:46</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Iran Formalizes Hormuz Control as Negotiations Stall on Two Fronts</title>
       <description>Iran establishes a formal authority over the Strait of Hormuz and hardens its nuclear position, as both Ukraine and Russia grow skeptical of U.S. mediation and China advances its AI governance agenda at the UN.</description>

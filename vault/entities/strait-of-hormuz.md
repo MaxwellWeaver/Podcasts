@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-06'
-last_seen: '2026-05-21'
-mentions: 6
+last_seen: '2026-05-26'
+mentions: 7
 ---
 
 # Strait of Hormuz
@@ -33,3 +33,7 @@ _2026-05-15:_ Traffic collapsed 80% since late February from 56 tankers per day 
 _2026-05-21:_ Iran's newly established Persian Gulf Strait Authority claimed armed forces oversight extending into Omani and UAE territorial waters with all transit requiring authorization; traffic collapsed from fifty-six to seven tankers per day since late February.
 
 - [[2026-05-21 iran-formalizes-hormuz-control-as-negotiations-stall-on-two-fronts]]
+
+_2026-05-26:_ Commands Hormozgan region where US struck Iranian sites; blockade has been the engine of global energy price inflation since February.
+
+- [[2026-05-26 iran-ceasefire-under-fire-nato-commitments-cut]]

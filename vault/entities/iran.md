@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-21'
-mentions: 8
+last_seen: '2026-05-26'
+mentions: 9
 ---
 
 # Iran
@@ -41,3 +41,7 @@ _2026-05-19:_ Senate advanced War Powers Resolution 50-47 requiring congressiona
 _2026-05-21:_ Established Persian Gulf Strait Authority claiming authority over 22,000+ square kilometers extending into Omani and UAE waters; signaled through Khamenei that enriched uranium must remain on Iranian soil; demonstrated enforcement through IRGC punishment strikes on tankers.
 
 - [[2026-05-21 iran-formalizes-hormuz-control-as-negotiations-stall-on-two-fronts]]
+
+_2026-05-26:_ Struck by US air strikes Monday near Bandar Abbas in Hormozgan; foreign ministry called the strikes a ceasefire violation and warned it 'will not leave any evil unanswered,' with promised response potentially military or diplomatic.
+
+- [[2026-05-26 iran-ceasefire-under-fire-nato-commitments-cut]]
