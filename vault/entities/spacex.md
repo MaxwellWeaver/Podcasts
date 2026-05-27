@@ -3,8 +3,8 @@ type: entity
 kind: org
 aliases: []
 first_seen: '2026-05-18'
-last_seen: '2026-05-26'
-mentions: 4
+last_seen: '2026-05-27'
+mentions: 5
 ---
 
 # SpaceX
@@ -25,3 +25,7 @@ _2026-05-21:_ S-1 IPO filing disclosed Anthropic's compute deal with xAI for $1.
 _2026-05-26:_ Subject of active Pentagon pricing dispute over Starlink service rates applied during the Iran conflict; the US military has built operational dependency on the commercial provider without contractual cost controls.
 
 - [[2026-05-26 iran-ceasefire-under-fire-nato-commitments-cut]]
+
+_2026-05-27:_ Starshield network costs for LUCAS drones increased fivefold to $25,000 per drone per month, following shift from commercial Starlink to more secure government variant.
+
+- [[2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges]]

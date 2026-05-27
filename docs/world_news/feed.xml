@@ -8,11 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 15:12:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 17:14:22 +0000</lastBuildDate>
     <itunes:author>podcastgen</itunes:author>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Daily geopolitics, defense tech, and tech briefing. Generated locally.</itunes:summary>
+    <item>
+      <title>Iran Ceasefire Fractures as Draft Hormuz Deal Emerges</title>
+      <description>U.S. strikes on Iran during active ceasefire negotiations contradict simultaneous diplomatic signals, as a draft deal to reopen Hormuz shipping surfaces. Israel escalates in Lebanon, Taiwan's arms package is formally paused, and South Korea commits to nuclear submarines.</description>
+      <guid isPermaLink="false">https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-05-27-22bda976.mp3</guid>
+      <enclosure url="https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-05-27-22bda976.mp3" length="6240143" type="audio/mpeg"/>
+      <pubDate>Wed, 27 May 2026 06:00:00 +0000</pubDate>
+      <itunes:duration>12:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Iran Ceasefire Under Fire, NATO Commitments Cut</title>
       <description>US strikes Iran during Doha peace talks, Netanyahu intensifies Lebanon bombardment, and Washington formally reduces the fighter jets and bombers it will provide NATO in a crisis — the week's compounding signals of US retrenchment.</description>

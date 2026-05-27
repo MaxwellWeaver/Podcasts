@@ -2,8 +2,8 @@
 type: topic
 status: active
 first_seen: '2026-05-04'
-last_covered: '2026-05-26'
-mentions: 3
+last_covered: '2026-05-27'
+mentions: 4
 related_entities: []
 ---
 
@@ -17,7 +17,10 @@ _2026-05-15:_ Ukraine's domestically produced FPV attack drones, maritime surfac
 
 _2026-05-26:_ Hezbollah deployed fiber-optic guided drones using physical wire connections immune to electronic jamming systems, forcing Israel to solve a kinetic interception problem it believed it had addressed electronically.
 
+_2026-05-27:_ Hezbollah's wire-guided FPV drones using fiber-optic cables render electronic jamming irrelevant; Israeli troops are improvising fishing nets from coastal fishermen to protect combat vehicles, revealing a kinetic interception problem rather than electronic solution.
+
 ## Episode log
 - 2026-05-04 — 2026-05-04 ukraine-s-air-defense-hangs-on-iran
 - 2026-05-15 — 2026-05-15 beijing-summit-readout-gap-and-the-iran-arsenal-dispute
 - 2026-05-26 — 2026-05-26 iran-ceasefire-under-fire-nato-commitments-cut
+- 2026-05-27 — 2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges

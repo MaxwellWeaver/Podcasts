@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-06'
-last_seen: '2026-05-26'
-mentions: 7
+last_seen: '2026-05-27'
+mentions: 8
 ---
 
 # Strait of Hormuz
@@ -37,3 +37,7 @@ _2026-05-21:_ Iran's newly established Persian Gulf Strait Authority claimed arm
 _2026-05-26:_ Commands Hormozgan region where US struck Iranian sites; blockade has been the engine of global energy price inflation since February.
 
 - [[2026-05-26 iran-ceasefire-under-fire-nato-commitments-cut]]
+
+_2026-05-27:_ Closed to most Western traffic since February 28 under Iran's selective fee system; economic pressure measurable as China approved fresh urea exports in response to fertilizer shortages.
+
+- [[2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges]]

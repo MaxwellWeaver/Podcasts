@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-06'
-last_seen: '2026-05-15'
-mentions: 4
+last_seen: '2026-05-27'
+mentions: 5
 ---
 
 # Volodymyr Zelensky
@@ -25,3 +25,7 @@ _2026-05-08:_ Confirmed publicly that Ukrainian forces destroyed Iranian Shaheds
 _2026-05-15:_ Presided over Ukraine's first legal channel to sell weapons to the U.S.; signed 4 bilateral export contracts this week and is pursuing roughly 20 more across the Middle East and partner nations. At a NATO eastern-flank summit in Bucharest on May 13, called for 'bilateral Drone Deals using Europe's production capabilities and Ukrainian expertise proven in real defense during a real war.'
 
 - [[2026-05-15 beijing-summit-readout-gap-and-the-iran-arsenal-dispute]]
+
+_2026-05-27:_ U.S. strikes on Iran during active ceasefire negotiations contradict simultaneous diplomatic signals, as a draft deal to reopen Hormuz shipping surfaces. Israel escalates in Lebanon, Taiwan's arms package is formally paused, and South Korea commits to nuclear submarines.
+
+- [[2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges]]

@@ -2,8 +2,8 @@
 type: topic
 status: active
 first_seen: '2026-05-04'
-last_covered: '2026-05-21'
-mentions: 7
+last_covered: '2026-05-27'
+mentions: 8
 related_entities: []
 ---
 
@@ -25,6 +25,8 @@ _2026-05-19:_ Reuters reports Chinese military personnel covertly trained Russia
 
 _2026-05-21:_ The 'spirit of Anchorage' diplomatic framework collapsed on the Russian side, with Kremlin official Ushakov denying ever using the phrase. Both sides losing confidence in American intermediaries Witkoff and Kushner, while cabinet officials contradict Trump: Rubio called Ukraine 'the strongest, most powerful armed forces in all of Europe' citing five-to-one Russian casualty ratios, and Army Secretary Driscoll praised Ukraine's Delta command system as 'absolutely incredible' and superior to U.S. Army architecture.
 
+_2026-05-27:_ A senior Ukrainian commander claims an imminent turning point approaching, coinciding with the quiet collapse of the diplomatic framework after the Kremlin denied endorsing the 'spirit of Anchorage' framework.
+
 ## Episode log
 - 2026-05-04 — 2026-05-04 ukraine-s-air-defense-hangs-on-iran
 - 2026-05-06 — 2026-05-06 iran-deal-signal-ukraine-ceasefire-failure-pakistan-submarine
@@ -33,3 +35,4 @@ _2026-05-21:_ The 'spirit of Anchorage' diplomatic framework collapsed on the Ru
 - 2026-05-15 — 2026-05-15 beijing-summit-readout-gap-and-the-iran-arsenal-dispute
 - 2026-05-19 — 2026-05-19 nato-retrenchment-estonia-drone-shootdown-and-the-putin-xi-summit
 - 2026-05-21 — 2026-05-21 iran-formalizes-hormuz-control-as-negotiations-stall-on-two-fronts
+- 2026-05-27 — 2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges

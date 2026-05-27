@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-26'
-mentions: 4
+last_seen: '2026-05-27'
+mentions: 5
 ---
 
 # Benjamin Netanyahu
@@ -25,3 +25,7 @@ _2026-05-18:_ Described the Flotilla interception as neutralizing a plan to brea
 _2026-05-26:_ Ordered explicit intensification of Hezbollah strikes, publicly instructing forces to 'press the pedal even harder' rather than adapt to fiber-optic drone technology.
 
 - [[2026-05-26 iran-ceasefire-under-fire-nato-commitments-cut]]
+
+_2026-05-27:_ U.S. strikes on Iran during active ceasefire negotiations contradict simultaneous diplomatic signals, as a draft deal to reopen Hormuz shipping surfaces. Israel escalates in Lebanon, Taiwan's arms package is formally paused, and South Korea commits to nuclear submarines.
+
+- [[2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges]]

@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-14'
-last_seen: '2026-05-20'
-mentions: 3
+last_seen: '2026-05-27'
+mentions: 4
 ---
 
 # Taiwan
@@ -21,3 +21,7 @@ _2026-05-15:_ Conducted first live torpedo test from an indigenous submarine on 
 _2026-05-20:_ Taiwan's $14 billion arms package—the largest in its history—hangs in uncertainty after Trump's Beijing summit, where the U.S. readout omitted Taiwan while Xi warned independence and peace are 'irreconcilable as fire and water.'
 
 - [[2026-05-20 russia-nuclear-drill-nato-autonomous-zone-salt-typhoon-doctrine]]
+
+_2026-05-27:_ $14 billion arms package—largest in its history—officially paused; faces backlog of nearly $30 billion in U.S. arms deliveries under worst diplomatic conditions in years.
+
+- [[2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges]]

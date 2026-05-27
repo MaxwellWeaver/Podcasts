@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-21'
-mentions: 10
+last_seen: '2026-05-27'
+mentions: 11
 ---
 
 # Donald Trump
@@ -49,3 +49,7 @@ _2026-05-20:_ Trump's Beijing summit readout omitted Taiwan entirely, creating s
 _2026-05-21:_ Publicly dismissed Ukraine's military strength while his cabinet across four venues contradicted this assessment, deepening structural problems in American-led negotiation process.
 
 - [[2026-05-21 iran-formalizes-hormuz-control-as-negotiations-stall-on-two-fronts]]
+
+_2026-05-27:_ Posted Iran negotiations 'proceeding nicely' hours before CENTCOM launched airstrikes; at Beijing summit described $14 billion Taiwan arms package as 'negotiating chip,' breaking from decades of U.S. practice.
+
+- [[2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges]]

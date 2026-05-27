@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-26'
-mentions: 9
+last_seen: '2026-05-27'
+mentions: 10
 ---
 
 # Iran
@@ -45,3 +45,7 @@ _2026-05-21:_ Established Persian Gulf Strait Authority claiming authority over 
 _2026-05-26:_ Struck by US air strikes Monday near Bandar Abbas in Hormozgan; foreign ministry called the strikes a ceasefire violation and warned it 'will not leave any evil unanswered,' with promised response potentially military or diplomatic.
 
 - [[2026-05-26 iran-ceasefire-under-fire-nato-commitments-cut]]
+
+_2026-05-27:_ Operating selective fee system on Hormuz allowing Chinese tankers while blocking Western shipping; state TV reported draft framework to reopen Hormuz and formally end blockade; Foreign Ministry called airstrikes ceasefire violation and vowed retaliation.
+
+- [[2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges]]
