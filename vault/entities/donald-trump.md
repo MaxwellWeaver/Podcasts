@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-27'
-mentions: 11
+last_seen: '2026-05-28'
+mentions: 12
 ---
 
 # Donald Trump
@@ -53,3 +53,7 @@ _2026-05-21:_ Publicly dismissed Ukraine's military strength while his cabinet a
 _2026-05-27:_ Posted Iran negotiations 'proceeding nicely' hours before CENTCOM launched airstrikes; at Beijing summit described $14 billion Taiwan arms package as 'negotiating chip,' breaking from decades of U.S. practice.
 
 - [[2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges]]
+
+_2026-05-28:_ Accused Iran of deliberately stalling peace talks to run out the clock before November midterms and threatened to bomb Oman if it did not comply with US demands regarding the Strait of Hormuz, collapsing Oman's decades-long role as a US-Iran intermediary.
+
+- [[2026-05-28 iran-ceasefire-fractures-oman-threatened]]

@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-27'
-mentions: 5
+last_seen: '2026-05-28'
+mentions: 6
 ---
 
 # Benjamin Netanyahu
@@ -29,3 +29,7 @@ _2026-05-26:_ Ordered explicit intensification of Hezbollah strikes, publicly in
 _2026-05-27:_ U.S. strikes on Iran during active ceasefire negotiations contradict simultaneous diplomatic signals, as a draft deal to reopen Hormuz shipping surfaces. Israel escalates in Lebanon, Taiwan's arms package is formally paused, and South Korea commits to nuclear submarines.
 
 - [[2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges]]
+
+_2026-05-28:_ The US-Iran ceasefire is under severe stress after overnight exchanges near the Strait of Hormuz and Trump's threat to bomb American ally Oman. Also: CSIS quantifies the multi-year Pacific vulnerability created by Operation Epic Fury munitions depletion, adversaries are exploiting commercial location data to target US troops, and Israel strikes Beirut for the first time since the mid-April Lebanon ceasefire.
+
+- [[2026-05-28 iran-ceasefire-fractures-oman-threatened]]

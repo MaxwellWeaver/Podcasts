@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-06'
-last_seen: '2026-05-27'
-mentions: 8
+last_seen: '2026-05-28'
+mentions: 9
 ---
 
 # Strait of Hormuz
@@ -41,3 +41,7 @@ _2026-05-26:_ Commands Hormozgan region where US struck Iranian sites; blockade 
 _2026-05-27:_ Closed to most Western traffic since February 28 under Iran's selective fee system; economic pressure measurable as China approved fresh urea exports in response to fertilizer shortages.
 
 - [[2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges]]
+
+_2026-05-28:_ Trump threatened Oman over its mediation role regarding transit arrangements, where most navigable passage runs through Iranian and Omani territorial waters rather than international waters as Trump claimed.
+
+- [[2026-05-28 iran-ceasefire-fractures-oman-threatened]]

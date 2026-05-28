@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-06'
-last_seen: '2026-05-27'
-mentions: 5
+last_seen: '2026-05-28'
+mentions: 6
 ---
 
 # Volodymyr Zelensky
@@ -29,3 +29,7 @@ _2026-05-15:_ Presided over Ukraine's first legal channel to sell weapons to the
 _2026-05-27:_ U.S. strikes on Iran during active ceasefire negotiations contradict simultaneous diplomatic signals, as a draft deal to reopen Hormuz shipping surfaces. Israel escalates in Lebanon, Taiwan's arms package is formally paused, and South Korea commits to nuclear submarines.
 
 - [[2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges]]
+
+_2026-05-28:_ The US-Iran ceasefire is under severe stress after overnight exchanges near the Strait of Hormuz and Trump's threat to bomb American ally Oman. Also: CSIS quantifies the multi-year Pacific vulnerability created by Operation Epic Fury munitions depletion, adversaries are exploiting commercial location data to target US troops, and Israel strikes Beirut for the first time since the mid-April Lebanon ceasefire.
+
+- [[2026-05-28 iran-ceasefire-fractures-oman-threatened]]

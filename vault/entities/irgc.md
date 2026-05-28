@@ -3,8 +3,8 @@ type: entity
 kind: org
 aliases: []
 first_seen: '2026-05-06'
-last_seen: '2026-05-08'
-mentions: 3
+last_seen: '2026-05-28'
+mentions: 4
 ---
 
 # IRGC
@@ -21,3 +21,7 @@ _2026-05-07:_ On Monday, the IRGC launched cruise missiles and drones against US
 _2026-05-08:_ Launched missiles, drones, and small boats at three US Navy destroyers transiting toward Gulf of Oman on May 8; none struck.
 
 - [[2026-05-08 hormuz-escalation-ceasefire-theater-and-the-chokepoint-template]]
+
+_2026-05-28:_ Launched a ballistic missile toward Kuwait, claiming it targeted an American air base at Bandar Abbas in response to a US strike; frames the launch as defensive retaliation.
+
+- [[2026-05-28 iran-ceasefire-fractures-oman-threatened]]
