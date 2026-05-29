@@ -2,8 +2,8 @@
 type: topic
 status: active
 first_seen: '2026-05-04'
-last_covered: '2026-05-27'
-mentions: 8
+last_covered: '2026-05-29'
+mentions: 9
 related_entities: []
 ---
 
@@ -27,6 +27,8 @@ _2026-05-21:_ The 'spirit of Anchorage' diplomatic framework collapsed on the Ru
 
 _2026-05-27:_ A senior Ukrainian commander claims an imminent turning point approaching, coinciding with the quiet collapse of the diplomatic framework after the Kremlin denied endorsing the 'spirit of Anchorage' framework.
 
+_2026-05-29:_ Sweden committed to delivering 16 Gripen C/D fighters from Swedish stocks to Ukraine in early 2027 equipped with MBDA Meteor beyond-visual-range missiles, extending Ukrainian air-to-air reach against Russian Su-34s launching record numbers of glide bombs. Ukrainian pilots and technicians are already in training.
+
 ## Episode log
 - 2026-05-04 — 2026-05-04 ukraine-s-air-defense-hangs-on-iran
 - 2026-05-06 — 2026-05-06 iran-deal-signal-ukraine-ceasefire-failure-pakistan-submarine
@@ -36,3 +38,4 @@ _2026-05-27:_ A senior Ukrainian commander claims an imminent turning point appr
 - 2026-05-19 — 2026-05-19 nato-retrenchment-estonia-drone-shootdown-and-the-putin-xi-summit
 - 2026-05-21 — 2026-05-21 iran-formalizes-hormuz-control-as-negotiations-stall-on-two-fronts
 - 2026-05-27 — 2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges
+- 2026-05-29 — 2026-05-29 russian-drone-hits-romania-iran-deal-pending-china-nuclear-build

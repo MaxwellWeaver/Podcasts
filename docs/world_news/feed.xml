@@ -8,11 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 21:29:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 15:25:24 +0000</lastBuildDate>
     <itunes:author>podcastgen</itunes:author>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Daily geopolitics, defense tech, and tech briefing. Generated locally.</itunes:summary>
+    <item>
+      <title>Russian Drone Hits Romania, Iran Deal Pending, China Nuclear Build</title>
+      <description>A Russian drone struck a residential block in NATO member Romania, injuring civilians for the first time. Meanwhile a tentative 60-day US-Iran ceasefire extension awaits approval, newly revealed satellite imagery shows China hardening its nuclear second-strike infrastructure at massive scale, and Blue Origin's New Glenn rocket destroyed its only launch pad in Florida.</description>
+      <guid isPermaLink="false">https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-05-29-f1c34df1.mp3</guid>
+      <enclosure url="https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-05-29-f1c34df1.mp3" length="5944373" type="audio/mpeg"/>
+      <pubDate>Fri, 29 May 2026 06:00:00 +0000</pubDate>
+      <itunes:duration>12:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Iran Ceasefire Fractures, Oman Threatened</title>
       <description>The US-Iran ceasefire is under severe stress after overnight exchanges near the Strait of Hormuz and Trump's threat to bomb American ally Oman. Also: CSIS quantifies the multi-year Pacific vulnerability created by Operation Epic Fury munitions depletion, adversaries are exploiting commercial location data to target US troops, and Israel strikes Beirut for the first time since the mid-April Lebanon ceasefire.</description>

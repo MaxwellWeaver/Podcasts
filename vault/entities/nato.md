@@ -3,8 +3,8 @@ type: entity
 kind: org
 aliases: []
 first_seen: '2026-05-15'
-last_seen: '2026-05-26'
-mentions: 5
+last_seen: '2026-05-29'
+mentions: 6
 ---
 
 # NATO
@@ -29,3 +29,7 @@ _2026-05-21:_ Attributed Baltic airspace violations to Russian redirection of Uk
 _2026-05-26:_ Allied governments formally briefed on US force reduction plan; watching formal European reactions to specific fighter jet and bomber numbers, particularly from Germany and Poland.
 
 - [[2026-05-26 iran-ceasefire-under-fire-nato-commitments-cut]]
+
+_2026-05-29:_ Rutte invoked Article Five language without formally triggering the alliance commitment in response to Galați; NATO has not explained how it intends to prevent future incidents of off-course Russian munitions striking member territory.
+
+- [[2026-05-29 russian-drone-hits-romania-iran-deal-pending-china-nuclear-build]]

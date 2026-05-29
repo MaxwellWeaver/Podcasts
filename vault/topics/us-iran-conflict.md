@@ -2,8 +2,8 @@
 type: topic
 status: active
 first_seen: '2026-05-08'
-last_covered: '2026-05-28'
-mentions: 3
+last_covered: '2026-05-29'
+mentions: 4
 related_entities: []
 ---
 
@@ -17,7 +17,10 @@ _2026-05-19:_ Senate advanced War Powers Resolution 50-47 requiring congressiona
 
 _2026-05-28:_ The April seventh ceasefire fractured overnight as Iranian forces launched a ballistic missile toward Kuwait in response to a US strike on Bandar Abbas; Trump simultaneously threatened to bomb Oman over its diplomatic mediation role with Tehran, collapsing diplomatic channels.
 
+_2026-05-29:_ A 60-day memorandum of understanding tentatively agreed by US and Iranian negotiators remains unsigned on Trump's desk, extending the current truce, reopening the Strait of Hormuz, lifting the US blockade of Iranian ports, and opening talks on Tehran's nuclear program. The framework—covering unrestricted passage, sanctions waivers for oil sales, and Iranian mine removal—represents a departure from Trump's February demand for unconditional surrender and will face domestic pressure from Senate hardliners.
+
 ## Episode log
 - 2026-05-08 — 2026-05-08 hormuz-escalation-ceasefire-theater-and-the-chokepoint-template
 - 2026-05-19 — 2026-05-19 nato-retrenchment-estonia-drone-shootdown-and-the-putin-xi-summit
 - 2026-05-28 — 2026-05-28 iran-ceasefire-fractures-oman-threatened
+- 2026-05-29 — 2026-05-29 russian-drone-hits-romania-iran-deal-pending-china-nuclear-build

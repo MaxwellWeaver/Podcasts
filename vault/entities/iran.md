@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-27'
-mentions: 10
+last_seen: '2026-05-29'
+mentions: 11
 ---
 
 # Iran
@@ -49,3 +49,7 @@ _2026-05-26:_ Struck by US air strikes Monday near Bandar Abbas in Hormozgan; fo
 _2026-05-27:_ Operating selective fee system on Hormuz allowing Chinese tankers while blocking Western shipping; state TV reported draft framework to reopen Hormuz and formally end blockade; Foreign Ministry called airstrikes ceasefire violation and vowed retaliation.
 
 - [[2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges]]
+
+_2026-05-29:_ Tentatively agreed to a 60-day memorandum of understanding that would extend the current truce, reopen the Strait of Hormuz, lift the US blockade, cover unrestricted passage, 30-day Iranian mine removal, and open nuclear talks; Tasnim news agency said nothing had been finalized.
+
+- [[2026-05-29 russian-drone-hits-romania-iran-deal-pending-china-nuclear-build]]
