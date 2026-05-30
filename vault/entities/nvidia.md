@@ -3,8 +3,8 @@ type: entity
 kind: org
 aliases: []
 first_seen: '2026-05-06'
-last_seen: '2026-05-20'
-mentions: 3
+last_seen: '2026-05-29'
+mentions: 4
 ---
 
 # NVIDIA
@@ -21,3 +21,7 @@ _2026-05-14:_ Japan fires anti-ship missiles from the Philippines for the first 
 _2026-05-20:_ Nvidia's RTX 5090D gaming chip was banned by China at customs checkpoints while Jensen Huang was in Beijing, signaling blanket rejection of Nvidia products regardless of export-control compliance.
 
 - [[2026-05-20 russia-nuclear-drill-nato-autonomous-zone-salt-typhoon-doctrine]]
+
+_2026-05-29:_ Released SOL-ExecBench revealing AI-generated CUDA kernels silently corrupt production workloads. Promoting Nemotron-Labs Diffusion as parallel-generation alternative to autoregressive.
+
+- [[2026-05-29 anthropic-at-47b-and-the-revenue-inflection]]

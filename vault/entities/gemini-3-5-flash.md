@@ -3,8 +3,8 @@ type: entity
 kind: model
 aliases: []
 first_seen: '2026-05-21'
-last_seen: '2026-05-21'
-mentions: 1
+last_seen: '2026-05-29'
+mentions: 2
 ---
 
 # Gemini 3.5 Flash
@@ -13,3 +13,7 @@ _2026-05-21:_ Now generally available for deployment in Gemini app, AI Mode in G
 
 ## Recent appearances
 - [[2026-05-21 erdos-falls-google-io-and-the-ai-restructuring-wave]]
+
+_2026-05-29:_ Released at Google I/O.
+
+- [[2026-05-29 anthropic-at-47b-and-the-revenue-inflection]]

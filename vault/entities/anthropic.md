@@ -3,8 +3,8 @@ type: entity
 kind: org
 aliases: []
 first_seen: '2026-05-05'
-last_seen: '2026-05-21'
-mentions: 4
+last_seen: '2026-05-29'
+mentions: 5
 ---
 
 # Anthropic
@@ -25,3 +25,7 @@ _2026-05-15:_ Moved Claude's API access to metered credit model tied to subscrip
 _2026-05-21:_ Signed Cloud Services Agreements with xAI for compute access at COLOSSUS and COLOSSUS II data centers at $1.25 billion per month through May 2029, representing a structural shift toward dedicated hardware infrastructure.
 
 - [[2026-05-21 erdos-falls-google-io-and-the-ai-restructuring-wave]]
+
+_2026-05-29:_ Run-rate revenue reached 47 billion by May 2026, up from 9 billion in December, with Series H raising 65 billion at 900 billion pre-money valuation. Released Opus 4.8 with four-times-lower code flaw tolerance and launched dynamic workflows.
+
+- [[2026-05-29 anthropic-at-47b-and-the-revenue-inflection]]
