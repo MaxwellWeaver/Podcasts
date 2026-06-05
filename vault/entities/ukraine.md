@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-21'
-mentions: 6
+last_seen: '2026-06-05'
+mentions: 7
 ---
 
 # Ukraine
@@ -33,3 +33,7 @@ _2026-05-19:_ Drone shot down over Estonia, apologized within two hours; inciden
 _2026-05-21:_ Cabinet officials reported five-to-one Russian casualty ratio and praised Delta command system integrating all drones, sensors, and weapons into single operational network as 'absolutely incredible' and superior to U.S. Army architecture; secured first legal channel to sell drone technology to U.S.
 
 - [[2026-05-21 iran-formalizes-hormuz-control-as-negotiations-stall-on-two-fronts]]
+
+_2026-06-05:_ House passed eight billion dollars in military finance loans extending Ukraine Security Assistance Initiative through 2027. Testing FP-7.X domestic missile system as alternative to constrained Patriot stocks; Sweden committed to delivering sixteen Gripen fighters with Meteor missiles in early 2027.
+
+- [[2026-06-05 iran-fires-at-us-warships-china-s-taiwan-governance-plan-syria-chemical-weapons]]

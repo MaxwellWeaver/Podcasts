@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-14'
-last_seen: '2026-05-20'
-mentions: 4
+last_seen: '2026-06-05'
+mentions: 5
 ---
 
 # Xi Jinping
@@ -25,3 +25,7 @@ _2026-05-19:_ Met Trump in Beijing days before receiving Putin Tuesday, position
 _2026-05-20:_ Xi signed a 47-page joint declaration with Putin and more than twenty bilateral agreements on trade and technology, and publicly warned during the Trump summit that Taiwanese independence and peace are 'irreconcilable as fire and water.'
 
 - [[2026-05-20 russia-nuclear-drill-nato-autonomous-zone-salt-typhoon-doctrine]]
+
+_2026-06-05:_ Told Trump directly that Taiwanese independence and peace are irreconcilable, signaling Beijing's diplomatic position alongside shadow government planning for Taiwan.
+
+- [[2026-06-05 iran-fires-at-us-warships-china-s-taiwan-governance-plan-syria-chemical-weapons]]

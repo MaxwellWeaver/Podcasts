@@ -3,8 +3,8 @@ type: entity
 kind: org
 aliases: []
 first_seen: '2026-05-18'
-last_seen: '2026-05-27'
-mentions: 5
+last_seen: '2026-06-05'
+mentions: 6
 ---
 
 # SpaceX
@@ -29,3 +29,7 @@ _2026-05-26:_ Subject of active Pentagon pricing dispute over Starlink service r
 _2026-05-27:_ Starshield network costs for LUCAS drones increased fivefold to $25,000 per drone per month, following shift from commercial Starlink to more secure government variant.
 
 - [[2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges]]
+
+_2026-06-05:_ Structured IPO to explicitly bar investors from China and Hong Kong, the first major U.S. technology offering to formalize this expectation for defense-adjacent companies.
+
+- [[2026-06-05 iran-fires-at-us-warships-china-s-taiwan-governance-plan-syria-chemical-weapons]]

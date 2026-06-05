@@ -8,11 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 15:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 16:48:32 +0000</lastBuildDate>
     <itunes:author>podcastgen</itunes:author>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Daily geopolitics, defense tech, and tech briefing. Generated locally.</itunes:summary>
+    <item>
+      <title>Iran fires at US warships, China's Taiwan governance plan, Syria chemical weapons</title>
+      <description>Iran claims it fired warning missiles at US warships in the Gulf of Oman as Iranian inflation hits its worst level since World War II; a scrubbed Chinese think tank paper reveals Beijing's post-invasion Taiwan governance planning; and OPCW inspectors find scores of hidden chemical weapons in Syria's fragile transition.</description>
+      <guid isPermaLink="false">https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-06-05-bf729a62.mp3</guid>
+      <enclosure url="https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-06-05-bf729a62.mp3" length="6190778" type="audio/mpeg"/>
+      <pubDate>Fri, 05 Jun 2026 06:00:00 +0000</pubDate>
+      <itunes:duration>12:52</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Russian Drone Hits Romania, Iran Deal Pending, China Nuclear Build</title>
       <description>A Russian drone struck a residential block in NATO member Romania, injuring civilians for the first time. Meanwhile a tentative 60-day US-Iran ceasefire extension awaits approval, newly revealed satellite imagery shows China hardening its nuclear second-strike infrastructure at massive scale, and Blue Origin's New Glenn rocket destroyed its only launch pad in Florida.</description>

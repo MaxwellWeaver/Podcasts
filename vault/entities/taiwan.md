@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-14'
-last_seen: '2026-05-27'
-mentions: 4
+last_seen: '2026-06-05'
+mentions: 5
 ---
 
 # Taiwan
@@ -25,3 +25,7 @@ _2026-05-20:_ Taiwan's $14 billion arms package—the largest in its history—h
 _2026-05-27:_ $14 billion arms package—largest in its history—officially paused; faces backlog of nearly $30 billion in U.S. arms deliveries under worst diplomatic conditions in years.
 
 - [[2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges]]
+
+_2026-06-05:_ Subject of a leaked August 2024 Xiamen think tank paper arguing for a shadow government structure on the Chinese mainland; the paper acknowledged deepened opposition to unification, unsuitability of Hong Kong's post-1997 model, and Chinese officials' lack of understanding of Taiwan's political conditions.
+
+- [[2026-06-05 iran-fires-at-us-warships-china-s-taiwan-governance-plan-syria-chemical-weapons]]

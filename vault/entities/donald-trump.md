@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-29'
-mentions: 13
+last_seen: '2026-06-05'
+mentions: 14
 ---
 
 # Donald Trump
@@ -61,3 +61,7 @@ _2026-05-28:_ Accused Iran of deliberately stalling peace talks to run out the c
 _2026-05-29:_ Has not yet signed a tentatively agreed 60-day Iran memorandum of understanding that would extend the current truce, reopen the Strait of Hormuz, lift the US blockade of Iranian ports, and open nuclear talks.
 
 - [[2026-05-29 russian-drone-hits-romania-iran-deal-pending-china-nuclear-build]]
+
+_2026-06-05:_ Described the fourteen-billion-dollar Taiwan arms package at Beijing summit as a negotiating chip rather than commitment, breaking decades of practice. Running stalled Ukraine negotiation track with Kremlin, which denied endorsing the Anchorage framework.
+
+- [[2026-06-05 iran-fires-at-us-warships-china-s-taiwan-governance-plan-syria-chemical-weapons]]

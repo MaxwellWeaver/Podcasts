@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-29'
-mentions: 11
+last_seen: '2026-06-05'
+mentions: 12
 ---
 
 # Iran
@@ -53,3 +53,7 @@ _2026-05-27:_ Operating selective fee system on Hormuz allowing Chinese tankers 
 _2026-05-29:_ Tentatively agreed to a 60-day memorandum of understanding that would extend the current truce, reopen the Strait of Hormuz, lift the US blockade, cover unrestricted passage, 30-day Iranian mine removal, and open nuclear talks; Tasnim news agency said nothing had been finalized.
 
 - [[2026-05-29 russian-drone-hits-romania-iran-deal-pending-china-nuclear-build]]
+
+_2026-06-05:_ Claimed Thursday it fired warning missiles and drones at U.S. warships in the Gulf of Oman, most direct military exchange since the war began. Faces hyperinflation at highest level since World War II—rice prices tripled and cooking oil quadrupled in a year—creating both potential constraint on war financing and conditions for nationalist consolidation.
+
+- [[2026-06-05 iran-fires-at-us-warships-china-s-taiwan-governance-plan-syria-chemical-weapons]]

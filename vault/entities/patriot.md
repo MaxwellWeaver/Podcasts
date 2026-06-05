@@ -3,8 +3,8 @@ type: entity
 kind: weapon_system
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-04'
-mentions: 1
+last_seen: '2026-06-05'
+mentions: 2
 ---
 
 # Patriot
@@ -13,3 +13,7 @@ _2026-05-04:_ Missile system central to supply chain competition between Ukraine
 
 ## Recent appearances
 - [[2026-05-04 ukraine-s-air-defense-hangs-on-iran]]
+
+_2026-06-05:_ Supply now understood as constrained and politically uncertain; Ukraine developing alternatives (Freyja) and diversifying procurement (Gripen, FP-7.X) rather than relying on single-source U.S. stocks.
+
+- [[2026-06-05 iran-fires-at-us-warships-china-s-taiwan-governance-plan-syria-chemical-weapons]]
