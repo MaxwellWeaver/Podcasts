@@ -4,7 +4,7 @@ kind: org
 aliases: []
 first_seen: '2026-05-05'
 last_seen: '2026-06-05'
-mentions: 6
+mentions: 7
 ---
 
 # Anthropic
@@ -33,3 +33,7 @@ _2026-05-29:_ Run-rate revenue reached 47 billion by May 2026, up from 9 billion
 _2026-06-05:_ Foundation models used in Pentagon AI military applications including Project Maven and Anduril's Lattice are publicly available and vulnerable to adversary distillation.
 
 - [[2026-06-05 iran-fires-at-us-warships-china-s-taiwan-governance-plan-syria-chemical-weapons]]
+
+_2026-06-05:_ Published 'When AI Builds Itself' quantifying that engineers ship eight times as much code per quarter compared to twenty twenty-one through twenty twenty-five, framing three stages from human-driven to full recursive self-improvement. Mythos Preview system card recognized Andon Labs' VendingBench evaluation methodology.
+
+- [[2026-06-05 when-ai-builds-itself-recursive-development-and-the-accountability-gap]]

@@ -8,11 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 May 2026 02:26:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 16:51:47 +0000</lastBuildDate>
     <itunes:author>podcastgen</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Weekly state-of-the-art AI capabilities briefing. Generated locally.</itunes:summary>
+    <item>
+      <title>When AI Builds Itself: Recursive Development and the Accountability Gap</title>
+      <description>Anthropic's institute publishes internal data showing 8x engineer code productivity as AI accelerates its own development; paired with papers on evaluation blind spots, model collapse epidemiology, and error severity, the week's theme is the collapse of inherited accountability proxies across open source, enterprise, and education.</description>
+      <guid isPermaLink="false">https://maxwellweaver.github.io/Podcasts/ai/audio/2026-06-05-d16e159c.mp3</guid>
+      <enclosure url="https://maxwellweaver.github.io/Podcasts/ai/audio/2026-06-05-d16e159c.mp3" length="11138366" type="audio/mpeg"/>
+      <pubDate>Fri, 05 Jun 2026 06:00:00 +0000</pubDate>
+      <itunes:duration>23:10</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Anthropic at $47B and the Revenue Inflection</title>
       <description>Anthropic closes a $65B Series H at a $900B valuation with $47B in run-rate revenue, ships Opus 4.8 and dynamic workflows; plus Cognition's $26B Series D, the Google OS demo debunking, AI jobs apocalypse reversal, and research on CUDA kernel silent failures and LLM interpretability.</description>
