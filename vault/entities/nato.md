@@ -3,8 +3,8 @@ type: entity
 kind: org
 aliases: []
 first_seen: '2026-05-15'
-last_seen: '2026-05-29'
-mentions: 6
+last_seen: '2026-06-13'
+mentions: 7
 ---
 
 # NATO
@@ -33,3 +33,7 @@ _2026-05-26:_ Allied governments formally briefed on US force reduction plan; wa
 _2026-05-29:_ Rutte invoked Article Five language without formally triggering the alliance commitment in response to Galați; NATO has not explained how it intends to prevent future incidents of off-course Russian munitions striking member territory.
 
 - [[2026-05-29 russian-drone-hits-romania-iran-deal-pending-china-nuclear-build]]
+
+_2026-06-13:_ Pentagon planning major reductions in European air power support including cutting aerial refueling tankers and maritime reconnaissance assets; NATO stood up new battalion battlegroup in Finland and Sweden as deterrent against Russian expansion.
+
+- [[2026-06-13 iran-deal-or-not-nato-retools-and-the-f-35-crisis]]

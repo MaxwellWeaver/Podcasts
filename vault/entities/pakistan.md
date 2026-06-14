@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-06'
-last_seen: '2026-05-21'
-mentions: 3
+last_seen: '2026-06-13'
+mentions: 4
 ---
 
 # Pakistan
@@ -21,3 +21,7 @@ _2026-05-18:_ Serves as backchannel for Iran-US negotiations (third exchange in 
 _2026-05-21:_ Deployed eight thousand troops, fighter jet squadron, and air defense system to Saudi Arabia under mutual defense pact, undermining credibility as neutral mediator between Iran and Riyadh.
 
 - [[2026-05-21 iran-formalizes-hormuz-control-as-negotiations-stall-on-two-fronts]]
+
+_2026-06-13:_ Served as central mediating power throughout negotiations; PM confirmed active preparations for electronic signing ceremony Sunday, carrying institutional weight beyond a social media announcement given Pakistan's skin in the outcome.
+
+- [[2026-06-13 iran-deal-or-not-nato-retools-and-the-f-35-crisis]]

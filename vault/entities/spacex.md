@@ -3,8 +3,8 @@ type: entity
 kind: org
 aliases: []
 first_seen: '2026-05-18'
-last_seen: '2026-06-05'
-mentions: 6
+last_seen: '2026-06-13'
+mentions: 7
 ---
 
 # SpaceX
@@ -33,3 +33,7 @@ _2026-05-27:_ Starshield network costs for LUCAS drones increased fivefold to $2
 _2026-06-05:_ Structured IPO to explicitly bar investors from China and Hong Kong, the first major U.S. technology offering to formalize this expectation for defense-adjacent companies.
 
 - [[2026-06-05 iran-fires-at-us-warships-china-s-taiwan-governance-plan-syria-chemical-weapons]]
+
+_2026-06-13:_ Completed IPO Friday opening at 135 dollars a share and closing above 160, valuing the company at approximately 1.8 trillion dollars; investor pitch centers on AI infrastructure and orbital data centers.
+
+- [[2026-06-13 iran-deal-or-not-nato-retools-and-the-f-35-crisis]]

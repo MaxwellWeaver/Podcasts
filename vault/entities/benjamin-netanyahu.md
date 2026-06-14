@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-28'
-mentions: 6
+last_seen: '2026-06-13'
+mentions: 7
 ---
 
 # Benjamin Netanyahu
@@ -33,3 +33,7 @@ _2026-05-27:_ U.S. strikes on Iran during active ceasefire negotiations contradi
 _2026-05-28:_ The US-Iran ceasefire is under severe stress after overnight exchanges near the Strait of Hormuz and Trump's threat to bomb American ally Oman. Also: CSIS quantifies the multi-year Pacific vulnerability created by Operation Epic Fury munitions depletion, adversaries are exploiting commercial location data to target US troops, and Israel strikes Beirut for the first time since the mid-April Lebanon ceasefire.
 
 - [[2026-05-28 iran-ceasefire-fractures-oman-threatened]]
+
+_2026-06-13:_ Foreign Policy analysis Friday shows Netanyahu has a structural electoral incentive to prevent a durable ceasefire given Israeli elections due late October with his coalition polling below seat thresholds; he directed a June 1st strike on Beirut when Iranian retaliation was plausible and could have derailed talks.
+
+- [[2026-06-13 iran-deal-or-not-nato-retools-and-the-f-35-crisis]]

@@ -3,8 +3,8 @@ type: entity
 kind: org
 aliases: []
 first_seen: '2026-05-15'
-last_seen: '2026-05-15'
-mentions: 1
+last_seen: '2026-06-13'
+mentions: 2
 ---
 
 # Amazon
@@ -13,3 +13,7 @@ _2026-05-15:_ Workers fabricated AI tasks to meet usage quotas, creating false a
 
 ## Recent appearances
 - [[2026-05-15 supply-chain-open-ecosystems-and-the-reliability-gap]]
+
+_2026-06-13:_ Wall Street Journal reports Amazon's CEO initiated conversations with U.S. officials that triggered the Commerce Department directive forcing Anthropic to shut down Fable 5 and Mythos 5 models, raising questions about whether a major Anthropic investor shaped a regulatory action against its portfolio company's product.
+
+- [[2026-06-13 iran-deal-or-not-nato-retools-and-the-f-35-crisis]]

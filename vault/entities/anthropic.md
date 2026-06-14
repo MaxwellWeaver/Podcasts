@@ -3,8 +3,8 @@ type: entity
 kind: org
 aliases: []
 first_seen: '2026-05-05'
-last_seen: '2026-06-05'
-mentions: 7
+last_seen: '2026-06-13'
+mentions: 8
 ---
 
 # Anthropic
@@ -37,3 +37,7 @@ _2026-06-05:_ Foundation models used in Pentagon AI military applications includ
 _2026-06-05:_ Published 'When AI Builds Itself' quantifying that engineers ship eight times as much code per quarter compared to twenty twenty-one through twenty twenty-five, framing three stages from human-driven to full recursive self-improvement. Mythos Preview system card recognized Andon Labs' VendingBench evaluation methodology.
 
 - [[2026-06-05 when-ai-builds-itself-recursive-development-and-the-accountability-gap]]
+
+_2026-06-13:_ Commerce Department forced immediate shutdown of Fable 5 and Mythos 5 models Friday citing a reported jailbreak allowing codebases to be analyzed for software vulnerabilities; company said exploit only found minor flaws and full compliance required taking models offline globally.
+
+- [[2026-06-13 iran-deal-or-not-nato-retools-and-the-f-35-crisis]]

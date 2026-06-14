@@ -2,8 +2,8 @@
 type: topic
 status: active
 first_seen: '2026-05-27'
-last_covered: '2026-05-29'
-mentions: 2
+last_covered: '2026-06-13'
+mentions: 3
 related_entities: []
 ---
 
@@ -15,6 +15,9 @@ _2026-05-27:_ Latvia deploying mobile drone-interceptor units to Russian border 
 
 _2026-05-29:_ Russian Shahed 136 drone struck a ten-story apartment building in Galați, Romania, injuring a woman and child and evacuating 70 residents—the first time in four years of war that Russian munitions have caused casualties in a NATO member state. Mark Rutte pledged to defend every inch of alliance territory while Dmitry Medvedev warned European leaders drones would continue to stray into their countries. NATO faces a structural problem: Ukrainian airspace saturation and continuous Russian drone launches make off-course munitions inevitable, and the alliance has not explained how it intends to prevent the next incident.
 
+_2026-06-13:_ Russia is building new military infrastructure near Finland sized for eventual deployment of tens of thousands of troops, according to Nordic and Baltic media investigations; a NATO official confirmed Friday that Moscow could "seek to expand westward into the Nordic and Baltic nations after a ceasefire with Ukraine," and NATO has stood up a new battalion battlegroup in Finland and Sweden as a deterrent.
+
 ## Episode log
 - 2026-05-27 — 2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges
 - 2026-05-29 — 2026-05-29 russian-drone-hits-romania-iran-deal-pending-china-nuclear-build
+- 2026-06-13 — 2026-06-13 iran-deal-or-not-nato-retools-and-the-f-35-crisis

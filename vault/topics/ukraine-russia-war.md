@@ -2,8 +2,8 @@
 type: topic
 status: active
 first_seen: '2026-05-04'
-last_covered: '2026-05-29'
-mentions: 9
+last_covered: '2026-06-13'
+mentions: 10
 related_entities: []
 ---
 
@@ -29,6 +29,8 @@ _2026-05-27:_ A senior Ukrainian commander claims an imminent turning point appr
 
 _2026-05-29:_ Sweden committed to delivering 16 Gripen C/D fighters from Swedish stocks to Ukraine in early 2027 equipped with MBDA Meteor beyond-visual-range missiles, extending Ukrainian air-to-air reach against Russian Su-34s launching record numbers of glide bombs. Ukrainian pilots and technicians are already in training.
 
+_2026-06-13:_ Danylo Tsvok, Ukraine's defense ministry AI center head, told Reuters the war is producing conditions for a "war of operating systems" with AI networks on each side competing for informational and decisional advantage, with a timeline of three to five years if the conflict continues at current intensity; Ukraine is already integrating AI into drone targeting, combat planning, and missile attack analysis.
+
 ## Episode log
 - 2026-05-04 — 2026-05-04 ukraine-s-air-defense-hangs-on-iran
 - 2026-05-06 — 2026-05-06 iran-deal-signal-ukraine-ceasefire-failure-pakistan-submarine
@@ -39,3 +41,4 @@ _2026-05-29:_ Sweden committed to delivering 16 Gripen C/D fighters from Swedish
 - 2026-05-21 — 2026-05-21 iran-formalizes-hormuz-control-as-negotiations-stall-on-two-fronts
 - 2026-05-27 — 2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges
 - 2026-05-29 — 2026-05-29 russian-drone-hits-romania-iran-deal-pending-china-nuclear-build
+- 2026-06-13 — 2026-06-13 iran-deal-or-not-nato-retools-and-the-f-35-crisis

@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-06-05'
-mentions: 12
+last_seen: '2026-06-13'
+mentions: 13
 ---
 
 # Iran
@@ -57,3 +57,7 @@ _2026-05-29:_ Tentatively agreed to a 60-day memorandum of understanding that wo
 _2026-06-05:_ Claimed Thursday it fired warning missiles and drones at U.S. warships in the Gulf of Oman, most direct military exchange since the war began. Faces hyperinflation at highest level since World War II—rice prices tripled and cooking oil quadrupled in a year—creating both potential constraint on war financing and conditions for nationalist consolidation.
 
 - [[2026-06-05 iran-fires-at-us-warships-china-s-taiwan-governance-plan-syria-chemical-weapons]]
+
+_2026-06-13:_ Foreign ministry stated flatly Friday that Sunday's Islamabad signing was not happening; has spent months negotiating under mounting domestic pressure; any deal would reopen Strait of Hormuz immediately upon signature.
+
+- [[2026-06-13 iran-deal-or-not-nato-retools-and-the-f-35-crisis]]
