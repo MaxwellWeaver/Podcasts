@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-06-05'
-mentions: 7
+last_seen: '2026-06-14'
+mentions: 8
 ---
 
 # Ukraine
@@ -37,3 +37,7 @@ _2026-05-21:_ Cabinet officials reported five-to-one Russian casualty ratio and 
 _2026-06-05:_ House passed eight billion dollars in military finance loans extending Ukraine Security Assistance Initiative through 2027. Testing FP-7.X domestic missile system as alternative to constrained Patriot stocks; Sweden committed to delivering sixteen Gripen fighters with Meteor missiles in early 2027.
 
 - [[2026-06-05 iran-fires-at-us-warships-china-s-taiwan-governance-plan-syria-chemical-weapons]]
+
+_2026-06-14:_ Will begin formal European Union accession talks after Hungary lifted its veto; has held candidate status since twenty twenty-two. Security implication outweighs trade implications in near term as EU membership creates institutional interdependencies binding Brussels to Kyiv's stability.
+
+- [[2026-06-14 iran-deal-on-the-edge-as-israeli-strike-hits-beirut]]

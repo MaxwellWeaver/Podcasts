@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-14'
-last_seen: '2026-06-05'
-mentions: 5
+last_seen: '2026-06-14'
+mentions: 6
 ---
 
 # Taiwan
@@ -29,3 +29,7 @@ _2026-05-27:_ $14 billion arms package—largest in its history—officially pau
 _2026-06-05:_ Subject of a leaked August 2024 Xiamen think tank paper arguing for a shadow government structure on the Chinese mainland; the paper acknowledged deepened opposition to unification, unsuitability of Hong Kong's post-1997 model, and Chinese officials' lack of understanding of Taiwan's political conditions.
 
 - [[2026-06-05 iran-fires-at-us-warships-china-s-taiwan-governance-plan-syria-chemical-weapons]]
+
+_2026-06-14:_ Launched low-friction intelligence portal allowing Chinese nationals to submit information to Taipei's security services, creating deterrent effect through accessible defection channels amid reduced US hardware commitment.
+
+- [[2026-06-14 iran-deal-on-the-edge-as-israeli-strike-hits-beirut]]

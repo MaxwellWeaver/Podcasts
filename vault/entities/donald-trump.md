@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-06-13'
-mentions: 15
+last_seen: '2026-06-14'
+mentions: 16
 ---
 
 # Donald Trump
@@ -69,3 +69,7 @@ _2026-06-05:_ Described the fourteen-billion-dollar Taiwan arms package at Beiji
 _2026-06-13:_ Announced Friday a peace memorandum to be signed Sunday in Islamabad with the Strait of Hormuz reopening immediately upon signature; stated the Strait would be open to all and referenced that the U.S. would "go in and get the Nuclear Dust" regarding Iran's enriched uranium stockpiles.
 
 - [[2026-06-13 iran-deal-or-not-nato-retools-and-the-f-35-crisis]]
+
+_2026-06-14:_ Said Iran-US agreement was scheduled for signature Saturday; after Israeli strike on Sunday, posted on Truth Social calling it disproportionate to a very small and meaningless Hezbollah provocation and explicitly told Israel to cease attacks on Lebanon. Also directed Anthropic to block foreign nationals from accessing its top AI models.
+
+- [[2026-06-14 iran-deal-on-the-edge-as-israeli-strike-hits-beirut]]

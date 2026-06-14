@@ -3,8 +3,8 @@ type: entity
 kind: org
 aliases: []
 first_seen: '2026-05-05'
-last_seen: '2026-06-13'
-mentions: 8
+last_seen: '2026-06-14'
+mentions: 9
 ---
 
 # Anthropic
@@ -41,3 +41,7 @@ _2026-06-05:_ Published 'When AI Builds Itself' quantifying that engineers ship 
 _2026-06-13:_ Commerce Department forced immediate shutdown of Fable 5 and Mythos 5 models Friday citing a reported jailbreak allowing codebases to be analyzed for software vulnerabilities; company said exploit only found minor flaws and full compliance required taking models offline globally.
 
 - [[2026-06-13 iran-deal-or-not-nato-retools-and-the-f-35-crisis]]
+
+_2026-06-14:_ Confirmed directive blocking all foreign nationals, including foreign national employees, from accessing its two most advanced AI models. Also in litigation with Trump administration over separate dispute involving US military use of its models.
+
+- [[2026-06-14 iran-deal-on-the-edge-as-israeli-strike-hits-beirut]]

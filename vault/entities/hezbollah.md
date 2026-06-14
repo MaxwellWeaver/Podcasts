@@ -3,8 +3,8 @@ type: entity
 kind: org
 aliases: []
 first_seen: '2026-05-14'
-last_seen: '2026-05-28'
-mentions: 4
+last_seen: '2026-06-14'
+mentions: 5
 ---
 
 # Hezbollah
@@ -25,3 +25,7 @@ _2026-05-27:_ Deployed wire-guided FPV drones using fiber-optic cables; launched
 _2026-05-28:_ Deploying fiber-optic guided drones that defeat Israeli electronic jamming; suffered over one hundred Israeli strikes on infrastructure in the Bekaa Valley in forty-eight hours and command personnel targeting in today's Beirut strike.
 
 - [[2026-05-28 iran-ceasefire-fractures-oman-threatened]]
+
+_2026-06-14:_ Israeli strike on Dahieh targeted what IDF described as the organization's command center and operational core, killing at least three and injuring fifteen.
+
+- [[2026-06-14 iran-deal-on-the-edge-as-israeli-strike-hits-beirut]]

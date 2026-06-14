@@ -2,8 +2,8 @@
 type: topic
 status: active
 first_seen: '2026-05-08'
-last_covered: '2026-06-05'
-mentions: 5
+last_covered: '2026-06-14'
+mentions: 6
 related_entities: []
 ---
 
@@ -21,9 +21,12 @@ _2026-05-27:_ The $14 billion arms package—largest in Taiwan's history—offic
 
 _2026-06-05:_ A leaked Xiamen think tank paper from August 2024 urged Beijing to establish a shadow Taiwan government on the mainland in preparation for takeover, acknowledging that opposition to unification has deepened and that Chinese officials lack basic understanding of Taiwan's political conditions. Trump broke decades of practice by calling the fourteen-billion-dollar arms package a negotiating chip rather than a commitment signal, and Xi told Trump directly that Taiwanese independence and peace are irreconcilable.
 
+_2026-06-14:_ Taiwan launched a low-friction intelligence portal allowing Chinese nationals to submit information directly to Taipei's security services, creating a deterrent effect through accessible defection channels amid reduced US hardware commitment.
+
 ## Episode log
 - 2026-05-08 — 2026-05-08 hormuz-escalation-ceasefire-theater-and-the-chokepoint-template
 - 2026-05-15 — 2026-05-15 beijing-summit-readout-gap-and-the-iran-arsenal-dispute
 - 2026-05-20 — 2026-05-20 russia-nuclear-drill-nato-autonomous-zone-salt-typhoon-doctrine
 - 2026-05-27 — 2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges
 - 2026-06-05 — 2026-06-05 iran-fires-at-us-warships-china-s-taiwan-governance-plan-syria-chemical-weapons
+- 2026-06-14 — 2026-06-14 iran-deal-on-the-edge-as-israeli-strike-hits-beirut

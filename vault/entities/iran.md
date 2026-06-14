@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-06-13'
-mentions: 13
+last_seen: '2026-06-14'
+mentions: 14
 ---
 
 # Iran
@@ -61,3 +61,7 @@ _2026-06-05:_ Claimed Thursday it fired warning missiles and drones at U.S. wars
 _2026-06-13:_ Foreign ministry stated flatly Friday that Sunday's Islamabad signing was not happening; has spent months negotiating under mounting domestic pressure; any deal would reopen Strait of Hormuz immediately upon signature.
 
 - [[2026-06-13 iran-deal-or-not-nato-retools-and-the-f-35-crisis]]
+
+_2026-06-14:_ Draft agreement includes oil sanctions waiver, unfreezing of assets, and nuclear limits; walked back Trump's timing claim. Senior official warned Israeli strike could derail deal; sanctions waiver critical for stabilizing Iran's fiscal position after years of constrained export capacity.
+
+- [[2026-06-14 iran-deal-on-the-edge-as-israeli-strike-hits-beirut]]

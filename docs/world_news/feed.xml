@@ -8,11 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jun 2026 02:23:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 15:56:48 +0000</lastBuildDate>
     <itunes:author>podcastgen</itunes:author>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Daily geopolitics, defense tech, and tech briefing. Generated locally.</itunes:summary>
+    <item>
+      <title>Iran Deal on the Edge as Israeli Strike Hits Beirut</title>
+      <description>Draft Iran-US deal terms emerge — oil sanctions waiver, nuclear limits, asset release — as an Israeli strike on Dahieh threatens the imminent signing; plus Ukraine's EU accession talks unblock, Anthropic's top models go off-limits to foreign nationals, and a major AUR supply chain attack compromises 900+ Linux packages.</description>
+      <guid isPermaLink="false">https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-06-14-f91b0b1f.mp3</guid>
+      <enclosure url="https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-06-14-f91b0b1f.mp3" length="5486941" type="audio/mpeg"/>
+      <pubDate>Sun, 14 Jun 2026 06:00:00 +0000</pubDate>
+      <itunes:duration>11:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Iran Deal or Not, NATO Retools, and the F-35 Crisis</title>
       <description>Trump announces a Sunday Iran ceasefire signing; Tehran immediately casts doubt. Simultaneously, the US cuts NATO air commitments as Germany and Spain launch a new 6th-gen fighter coalition, and the GAO reveals only one in four F-35s is fully mission capable.</description>
