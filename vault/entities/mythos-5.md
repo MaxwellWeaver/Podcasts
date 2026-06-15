@@ -3,8 +3,8 @@ type: entity
 kind: model
 aliases: []
 first_seen: '2026-06-13'
-last_seen: '2026-06-13'
-mentions: 1
+last_seen: '2026-06-14'
+mentions: 2
 ---
 
 # Mythos 5
@@ -13,3 +13,7 @@ _2026-06-13:_ Anthropic model forced offline Friday by Commerce Department citin
 
 ## Recent appearances
 - [[2026-06-13 iran-deal-or-not-nato-retools-and-the-f-35-crisis]]
+
+_2026-06-14:_ Ordered offline globally by US government export control directive Friday, 34 days after initial announcement.
+
+- [[2026-06-14 fable-five-and-the-starting-gun-of-ai-governance]]

@@ -2,8 +2,8 @@
 type: topic
 status: active
 first_seen: '2026-05-21'
-last_covered: '2026-06-05'
-mentions: 3
+last_covered: '2026-06-14'
+mentions: 4
 related_entities: []
 ---
 
@@ -17,7 +17,10 @@ _2026-05-29:_ Opus 4.8 shipped with improved code flaw detection, approximately 
 
 _2026-06-05:_ Anthropic published 'When AI Builds Itself' showing engineers ship eight times as much code per quarter now compared to twenty twenty-one through twenty twenty-five. Microsoft announced MAI-Thinking-1 (35B active parameters) claiming Sonnet 4.6 parity and MAI-Code-1-Flash for GitHub Copilot, both trained on clean, commercially licensed data.
 
+_2026-06-14:_ Fable 5 achieved 29.3% on FrontierCode Diamond versus Opus 4.8's 13.4%, with novel demonstrations in vision-based game playing, 3D CAD generation, and musical visualization; DiffusionGemma achieved 4x faster text generation through diffusion-based generation; Gemma 4 12B simplified multimodal architecture by routing vision and audio directly into the LLM backbone.
+
 ## Episode log
 - 2026-05-21 — 2026-05-21 erdos-falls-google-io-and-the-ai-restructuring-wave
 - 2026-05-29 — 2026-05-29 anthropic-at-47b-and-the-revenue-inflection
 - 2026-06-05 — 2026-06-05 when-ai-builds-itself-recursive-development-and-the-accountability-gap
+- 2026-06-14 — 2026-06-14 fable-five-and-the-starting-gun-of-ai-governance

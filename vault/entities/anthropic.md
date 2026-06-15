@@ -4,7 +4,7 @@ kind: org
 aliases: []
 first_seen: '2026-05-05'
 last_seen: '2026-06-14'
-mentions: 9
+mentions: 10
 ---
 
 # Anthropic
@@ -45,3 +45,7 @@ _2026-06-13:_ Commerce Department forced immediate shutdown of Fable 5 and Mytho
 _2026-06-14:_ Confirmed directive blocking all foreign nationals, including foreign national employees, from accessing its two most advanced AI models. Also in litigation with Trump administration over separate dispute involving US military use of its models.
 
 - [[2026-06-14 iran-deal-on-the-edge-as-israeli-strike-hits-beirut]]
+
+_2026-06-14:_ Fable 5 ordered offline Friday after government cited jailbreak concerns; company had dropped zero data retention for Mythos-class models (shifting to 30-day retention) and implemented silent capability steering for frontier LLM development before reversing the transparency issue within 24 hours of community backlash.
+
+- [[2026-06-14 fable-five-and-the-starting-gun-of-ai-governance]]
