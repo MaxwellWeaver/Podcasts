@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-06-14'
-mentions: 14
+last_seen: '2026-06-15'
+mentions: 15
 ---
 
 # Iran
@@ -65,3 +65,7 @@ _2026-06-13:_ Foreign ministry stated flatly Friday that Sunday's Islamabad sign
 _2026-06-14:_ Draft agreement includes oil sanctions waiver, unfreezing of assets, and nuclear limits; walked back Trump's timing claim. Senior official warned Israeli strike could derail deal; sanctions waiver critical for stabilizing Iran's fiscal position after years of constrained export capacity.
 
 - [[2026-06-14 iran-deal-on-the-edge-as-israeli-strike-hits-beirut]]
+
+_2026-06-15:_ Agreed to immediate and permanent termination of military operations on all fronts after 100+ days of war. The US naval blockade on Iranian ports is to be lifted, and the Strait of Hormuz reopens. Iran's nuclear program, proxy support, frozen assets, and sanctions architecture are deferred to a 60-day negotiation period beginning after the MOU signing.
+
+- [[2026-06-15 iran-us-ceasefire-kyiv-cathedral-strike-france-goes-sovereign]]

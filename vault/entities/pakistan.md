@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-06'
-last_seen: '2026-06-13'
-mentions: 4
+last_seen: '2026-06-15'
+mentions: 5
 ---
 
 # Pakistan
@@ -25,3 +25,7 @@ _2026-05-21:_ Deployed eight thousand troops, fighter jet squadron, and air defe
 _2026-06-13:_ Served as central mediating power throughout negotiations; PM confirmed active preparations for electronic signing ceremony Sunday, carrying institutional weight beyond a social media announcement given Pakistan's skin in the outcome.
 
 - [[2026-06-13 iran-deal-or-not-nato-retools-and-the-f-35-crisis]]
+
+_2026-06-15:_ Played a critical geopolitical role threading the needle between Washington and Tehran, with PM Sharif crediting Field Marshal Munir's overnight mediation work for holding the talks together. This positioning demonstrates Pakistan's capacity for back-channel diplomacy despite American intermediaries being the public face.
+
+- [[2026-06-15 iran-us-ceasefire-kyiv-cathedral-strike-france-goes-sovereign]]

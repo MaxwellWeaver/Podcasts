@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-06-14'
-mentions: 16
+last_seen: '2026-06-15'
+mentions: 17
 ---
 
 # Donald Trump
@@ -73,3 +73,7 @@ _2026-06-13:_ Announced Friday a peace memorandum to be signed Sunday in Islamab
 _2026-06-14:_ Said Iran-US agreement was scheduled for signature Saturday; after Israeli strike on Sunday, posted on Truth Social calling it disproportionate to a very small and meaningless Hezbollah provocation and explicitly told Israel to cease attacks on Lebanon. Also directed Anthropic to block foreign nationals from accessing its top AI models.
 
 - [[2026-06-14 iran-deal-on-the-edge-as-israeli-strike-hits-beirut]]
+
+_2026-06-15:_ Confirmed the US-Iran deal on Truth Social, writing 'The Deal with the Islamic Republic of Iran is now complete.' Said ships are already moving through the 'Southern Highway.' Attended G7 summit carrying tariff threats against European counterparts.
+
+- [[2026-06-15 iran-us-ceasefire-kyiv-cathedral-strike-france-goes-sovereign]]

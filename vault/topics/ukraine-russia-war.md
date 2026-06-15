@@ -2,8 +2,8 @@
 type: topic
 status: active
 first_seen: '2026-05-04'
-last_covered: '2026-06-13'
-mentions: 10
+last_covered: '2026-06-15'
+mentions: 11
 related_entities: []
 ---
 
@@ -31,6 +31,8 @@ _2026-05-29:_ Sweden committed to delivering 16 Gripen C/D fighters from Swedish
 
 _2026-06-13:_ Danylo Tsvok, Ukraine's defense ministry AI center head, told Reuters the war is producing conditions for a "war of operating systems" with AI networks on each side competing for informational and decisional advantage, with a timeline of three to five years if the conflict continues at current intensity; Ukraine is already integrating AI into drone targeting, combat planning, and missile attack analysis.
 
+_2026-06-15:_ Russia launched one of the war's heaviest attacks overnight—70 missiles and 611 drones—killing 4 in Kyiv and 5 rescue workers in Kharkiv, and damaging the Dormition Cathedral at the Kyiv-Pechersk Lavra, an 11th-century UNESCO World Heritage site. Zelensky arrived at the G7 summit and offered to meet Putin on the sidelines, the most concrete diplomatic outreach from either side since the 'spirit of Anchorage' framework collapsed in May.
+
 ## Episode log
 - 2026-05-04 — 2026-05-04 ukraine-s-air-defense-hangs-on-iran
 - 2026-05-06 — 2026-05-06 iran-deal-signal-ukraine-ceasefire-failure-pakistan-submarine
@@ -42,3 +44,4 @@ _2026-06-13:_ Danylo Tsvok, Ukraine's defense ministry AI center head, told Reut
 - 2026-05-27 — 2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges
 - 2026-05-29 — 2026-05-29 russian-drone-hits-romania-iran-deal-pending-china-nuclear-build
 - 2026-06-13 — 2026-06-13 iran-deal-or-not-nato-retools-and-the-f-35-crisis
+- 2026-06-15 — 2026-06-15 iran-us-ceasefire-kyiv-cathedral-strike-france-goes-sovereign

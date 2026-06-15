@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-05-21'
-mentions: 5
+last_seen: '2026-06-15'
+mentions: 6
 ---
 
 # Russia
@@ -29,3 +29,7 @@ _2026-05-20:_ Russia launched its largest nuclear exercises in years with 65,000
 _2026-05-21:_ Repudiated 'spirit of Anchorage' diplomatic framework with Kremlin official Ushakov denying ever using the phrase; losing confidence in American-led negotiation process.
 
 - [[2026-05-21 iran-formalizes-hormuz-control-as-negotiations-stall-on-two-fronts]]
+
+_2026-06-15:_ Launched 70 missiles and 611 drones at Ukraine overnight, causing major damage including to the Kyiv-Pechersk Lavra cathedral. Denied responsibility for hitting the site. Made no response to Zelensky's G7 offer to meet Putin. The Russian shadow fleet tanker Smyrtos was interdicted by Britain—the first physical enforcement action against the shadow network in British waters.
+
+- [[2026-06-15 iran-us-ceasefire-kyiv-cathedral-strike-france-goes-sovereign]]

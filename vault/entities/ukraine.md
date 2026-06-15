@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-06-14'
-mentions: 8
+last_seen: '2026-06-15'
+mentions: 9
 ---
 
 # Ukraine
@@ -41,3 +41,7 @@ _2026-06-05:_ House passed eight billion dollars in military finance loans exten
 _2026-06-14:_ Will begin formal European Union accession talks after Hungary lifted its veto; has held candidate status since twenty twenty-two. Security implication outweighs trade implications in near term as EU membership creates institutional interdependencies binding Brussels to Kyiv's stability.
 
 - [[2026-06-14 iran-deal-on-the-edge-as-israeli-strike-hits-beirut]]
+
+_2026-06-15:_ Suffered a major Russian overnight attack of 70 missiles and 611 drones—one of the war's heaviest strikes. The Dormition Cathedral at Kyiv-Pechersk Lavra, an 11th-century UNESCO site, sustained significant damage. Ukraine's Delta battlefield system is now explicitly cited as the model for France's new Arcadia AI command structure.
+
+- [[2026-06-15 iran-us-ceasefire-kyiv-cathedral-strike-france-goes-sovereign]]

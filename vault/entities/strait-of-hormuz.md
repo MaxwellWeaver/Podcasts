@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-06'
-last_seen: '2026-06-13'
-mentions: 10
+last_seen: '2026-06-15'
+mentions: 11
 ---
 
 # Strait of Hormuz
@@ -49,3 +49,7 @@ _2026-05-28:_ Trump threatened Oman over its mediation role regarding transit ar
 _2026-06-13:_ Trump stated the Strait would reopen to all immediately upon signature of Iran peace memorandum Sunday in Islamabad; has been subject of standoff and tightening since early May.
 
 - [[2026-06-13 iran-deal-or-not-nato-retools-and-the-f-35-crisis]]
+
+_2026-06-15:_ Reopens under the US-Iran ceasefire agreement, with Trump stating ships are already moving through the 'Southern Highway' via Omani territorial waters. Global shippers remain cautious, waiting for mine clearance confirmation and implementation verification before routing vessels back at scale.
+
+- [[2026-06-15 iran-us-ceasefire-kyiv-cathedral-strike-france-goes-sovereign]]
