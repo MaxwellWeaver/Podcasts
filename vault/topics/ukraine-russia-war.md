@@ -2,8 +2,8 @@
 type: topic
 status: active
 first_seen: '2026-05-04'
-last_covered: '2026-06-15'
-mentions: 11
+last_covered: '2026-06-16'
+mentions: 12
 related_entities: []
 ---
 
@@ -33,6 +33,8 @@ _2026-06-13:_ Danylo Tsvok, Ukraine's defense ministry AI center head, told Reut
 
 _2026-06-15:_ Russia launched one of the war's heaviest attacks overnight—70 missiles and 611 drones—killing 4 in Kyiv and 5 rescue workers in Kharkiv, and damaging the Dormition Cathedral at the Kyiv-Pechersk Lavra, an 11th-century UNESCO World Heritage site. Zelensky arrived at the G7 summit and offered to meet Putin on the sidelines, the most concrete diplomatic outreach from either side since the 'spirit of Anchorage' framework collapsed in May.
 
+_2026-06-16:_ Zelensky offered direct Putin meeting on G-Seven sidelines, described as 'most concrete diplomatic outreach from either side since spirit of Anchorage framework collapsed in May.' Parallel Ukrainian military operations targeting Russian logistics with fuel depot and supply line damage; senior Russian ammunition supply colonel killed near Moscow.
+
 ## Episode log
 - 2026-05-04 — 2026-05-04 ukraine-s-air-defense-hangs-on-iran
 - 2026-05-06 — 2026-05-06 iran-deal-signal-ukraine-ceasefire-failure-pakistan-submarine
@@ -45,3 +47,4 @@ _2026-06-15:_ Russia launched one of the war's heaviest attacks overnight—70 m
 - 2026-05-29 — 2026-05-29 russian-drone-hits-romania-iran-deal-pending-china-nuclear-build
 - 2026-06-13 — 2026-06-13 iran-deal-or-not-nato-retools-and-the-f-35-crisis
 - 2026-06-15 — 2026-06-15 iran-us-ceasefire-kyiv-cathedral-strike-france-goes-sovereign
+- 2026-06-16 — 2026-06-16 b-52-down-at-edwards-iran-deal-fallout-white-house-plot-foiled

@@ -8,11 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 14:50:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 14:12:21 +0000</lastBuildDate>
     <itunes:author>podcastgen</itunes:author>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Daily geopolitics, defense tech, and tech briefing. Generated locally.</itunes:summary>
+    <item>
+      <title>B-52 Down at Edwards, Iran Deal Fallout, White House Plot Foiled</title>
+      <description>A B-52 crash at Edwards AFB kills eight; the US-Iran ceasefire deal isolates Netanyahu ahead of October elections; the FBI thwarts a coordinated drone-sniper plot targeting a White House event; and a Russian dissident artist is executed near the Belarusian border in Poland.</description>
+      <guid isPermaLink="false">https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-06-16-d0cfeb86.mp3</guid>
+      <enclosure url="https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-06-16-d0cfeb86.mp3" length="5478497" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Jun 2026 06:00:00 +0000</pubDate>
+      <itunes:duration>11:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Iran-US ceasefire, Kyiv cathedral strike, France goes sovereign</title>
       <description>The US and Iran agreed to end their war and reopen the Strait of Hormuz, with a formal MOU set for Friday in Geneva — though structural issues from Iran's nuclear program to sanctions are deferred. Russia launched one of its heaviest attacks on Ukraine overnight, damaging a UNESCO cathedral in Kyiv as Zelensky offered to meet Putin at the G7.</description>

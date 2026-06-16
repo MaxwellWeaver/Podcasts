@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-06-15'
-mentions: 9
+last_seen: '2026-06-16'
+mentions: 10
 ---
 
 # Ukraine
@@ -45,3 +45,7 @@ _2026-06-14:_ Will begin formal European Union accession talks after Hungary lif
 _2026-06-15:_ Suffered a major Russian overnight attack of 70 missiles and 611 drones—one of the war's heaviest strikes. The Dormition Cathedral at Kyiv-Pechersk Lavra, an 11th-century UNESCO site, sustained significant damage. Ukraine's Delta battlefield system is now explicitly cited as the model for France's new Arcadia AI command structure.
 
 - [[2026-06-15 iran-us-ceasefire-kyiv-cathedral-strike-france-goes-sovereign]]
+
+_2026-06-16:_ Conducting multi-layered logistics campaign with reported 80% fuel depot losses in Mariupol port, Crimea rail/road lines severed, Donbas cargo flow cut 71%; Zelensky offered direct Putin meeting at G-Seven.
+
+- [[2026-06-16 b-52-down-at-edwards-iran-deal-fallout-white-house-plot-foiled]]

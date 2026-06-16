@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-06-15'
-mentions: 17
+last_seen: '2026-06-16'
+mentions: 18
 ---
 
 # Donald Trump
@@ -77,3 +77,7 @@ _2026-06-14:_ Said Iran-US agreement was scheduled for signature Saturday; after
 _2026-06-15:_ Confirmed the US-Iran deal on Truth Social, writing 'The Deal with the Islamic Republic of Iran is now complete.' Said ships are already moving through the 'Southern Highway.' Attended G7 summit carrying tariff threats against European counterparts.
 
 - [[2026-06-15 iran-us-ceasefire-kyiv-cathedral-strike-france-goes-sovereign]]
+
+_2026-06-16:_ Confirmed US-Iran MOU, publicly berated Netanyahu for Beirut strike calling it poor judgment, said Russia should make peace deal following 'very good meeting' with Zelensky at G-Seven.
+
+- [[2026-06-16 b-52-down-at-edwards-iran-deal-fallout-white-house-plot-foiled]]

@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-06'
-last_seen: '2026-06-15'
-mentions: 11
+last_seen: '2026-06-16'
+mentions: 12
 ---
 
 # Strait of Hormuz
@@ -53,3 +53,7 @@ _2026-06-13:_ Trump stated the Strait would reopen to all immediately upon signa
 _2026-06-15:_ Reopens under the US-Iran ceasefire agreement, with Trump stating ships are already moving through the 'Southern Highway' via Omani territorial waters. Global shippers remain cautious, waiting for mine clearance confirmation and implementation verification before routing vessels back at scale.
 
 - [[2026-06-15 iran-us-ceasefire-kyiv-cathedral-strike-france-goes-sovereign]]
+
+_2026-06-16:_ Iran discovered closure as 'powerful new negotiating chip' in ceasefire agreement per Foreign Policy analysis.
+
+- [[2026-06-16 b-52-down-at-edwards-iran-deal-fallout-white-house-plot-foiled]]

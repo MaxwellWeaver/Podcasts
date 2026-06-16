@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-06'
-last_seen: '2026-06-15'
-mentions: 7
+last_seen: '2026-06-16'
+mentions: 8
 ---
 
 # Volodymyr Zelensky
@@ -37,3 +37,7 @@ _2026-05-28:_ The US-Iran ceasefire is under severe stress after overnight excha
 _2026-06-15:_ Arrived at the G7 summit in France and offered to meet Vladimir Putin on the sidelines, the most concrete diplomatic outreach from either side since May. Described the Russian overnight attack as 70 missiles and 611 drones and called the damage to Dormition Cathedral 'one of the biggest Russian crimes against Christian cultural heritage of the war.'
 
 - [[2026-06-15 iran-us-ceasefire-kyiv-cathedral-strike-france-goes-sovereign]]
+
+_2026-06-16:_ Arrived at G-Seven and offered direct Putin meeting on sidelines, 'most concrete diplomatic outreach from either side since spirit of Anchorage framework collapsed in May.'
+
+- [[2026-06-16 b-52-down-at-edwards-iran-deal-fallout-white-house-plot-foiled]]

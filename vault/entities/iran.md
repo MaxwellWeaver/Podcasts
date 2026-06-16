@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-06-15'
-mentions: 15
+last_seen: '2026-06-16'
+mentions: 16
 ---
 
 # Iran
@@ -69,3 +69,7 @@ _2026-06-14:_ Draft agreement includes oil sanctions waiver, unfreezing of asset
 _2026-06-15:_ Agreed to immediate and permanent termination of military operations on all fronts after 100+ days of war. The US naval blockade on Iranian ports is to be lifted, and the Strait of Hormuz reopens. Iran's nuclear program, proxy support, frozen assets, and sanctions architecture are deferred to a 60-day negotiation period beginning after the MOU signing.
 
 - [[2026-06-15 iran-us-ceasefire-kyiv-cathedral-strike-france-goes-sovereign]]
+
+_2026-06-16:_ Ceasefire MOU with US discovered Strait of Hormuz closure as 'powerful new negotiating chip'; Foreign Policy analysis states regime survived and emerged more hard-line.
+
+- [[2026-06-16 b-52-down-at-edwards-iran-deal-fallout-white-house-plot-foiled]]

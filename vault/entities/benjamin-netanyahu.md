@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-06-13'
-mentions: 7
+last_seen: '2026-06-16'
+mentions: 8
 ---
 
 # Benjamin Netanyahu
@@ -37,3 +37,7 @@ _2026-05-28:_ The US-Iran ceasefire is under severe stress after overnight excha
 _2026-06-13:_ Foreign Policy analysis Friday shows Netanyahu has a structural electoral incentive to prevent a durable ceasefire given Israeli elections due late October with his coalition polling below seat thresholds; he directed a June 1st strike on Beirut when Iranian retaliation was plausible and could have derailed talks.
 
 - [[2026-06-13 iran-deal-or-not-nato-retools-and-the-f-35-crisis]]
+
+_2026-06-16:_ Ceasefire agreement attacks all three pillars of his political identity (Washington influence, Iran-centric security, Mr. Security brand); admitted sidelined from deal details; faces October 2026 election with coalition divided over continued Lebanon operations.
+
+- [[2026-06-16 b-52-down-at-edwards-iran-deal-fallout-white-house-plot-foiled]]
