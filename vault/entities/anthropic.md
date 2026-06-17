@@ -3,8 +3,8 @@ type: entity
 kind: org
 aliases: []
 first_seen: '2026-05-05'
-last_seen: '2026-06-14'
-mentions: 10
+last_seen: '2026-06-17'
+mentions: 11
 ---
 
 # Anthropic
@@ -49,3 +49,7 @@ _2026-06-14:_ Confirmed directive blocking all foreign nationals, including fore
 _2026-06-14:_ Fable 5 ordered offline Friday after government cited jailbreak concerns; company had dropped zero data retention for Mythos-class models (shifting to 30-day retention) and implemented silent capability steering for frontier LLM development before reversing the transparency issue within 24 hours of community backlash.
 
 - [[2026-06-14 fable-five-and-the-starting-gun-of-ai-governance]]
+
+_2026-06-17:_ Disabled its two newest large language models after the Trump administration's directive barring foreign nationals from accessing them; company met with officials Monday with no agreement.
+
+- [[2026-06-17 iran-deal-fractures-at-the-edges-france-goes-nuclear-pentagon-greenlights-collus]]

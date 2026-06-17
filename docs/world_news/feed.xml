@@ -8,11 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 14:12:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 14:42:05 +0000</lastBuildDate>
     <itunes:author>podcastgen</itunes:author>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Daily geopolitics, defense tech, and tech briefing. Generated locally.</itunes:summary>
+    <item>
+      <title>Iran Deal Fractures at the Edges, France Goes Nuclear, Pentagon Greenlights Collusion</title>
+      <description>Iranian tankers breach the US blockade before Friday's signing and Trump threatens to return to shooting; France abandons four decades of nuclear restraint; and the Pentagon uses wartime legal powers to let munitions makers coordinate production.</description>
+      <guid isPermaLink="false">https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-06-17-ca972230.mp3</guid>
+      <enclosure url="https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-06-17-ca972230.mp3" length="6150998" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Jun 2026 06:00:00 +0000</pubDate>
+      <itunes:duration>12:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>B-52 Down at Edwards, Iran Deal Fallout, White House Plot Foiled</title>
       <description>A B-52 crash at Edwards AFB kills eight; the US-Iran ceasefire deal isolates Netanyahu ahead of October elections; the FBI thwarts a coordinated drone-sniper plot targeting a White House event; and a Russian dissident artist is executed near the Belarusian border in Poland.</description>

@@ -2,8 +2,8 @@
 type: topic
 status: active
 first_seen: '2026-05-04'
-last_covered: '2026-06-16'
-mentions: 12
+last_covered: '2026-06-17'
+mentions: 13
 related_entities: []
 ---
 
@@ -35,6 +35,8 @@ _2026-06-15:_ Russia launched one of the war's heaviest attacks overnight—70 m
 
 _2026-06-16:_ Zelensky offered direct Putin meeting on G-Seven sidelines, described as 'most concrete diplomatic outreach from either side since spirit of Anchorage framework collapsed in May.' Parallel Ukrainian military operations targeting Russian logistics with fuel depot and supply line damage; senior Russian ammunition supply colonel killed near Moscow.
 
+_2026-06-17:_ Trump signaled warming to Ukraine's war aims at the G7 while Zelensky's offer to meet Putin on G7 sidelines remains outstanding, and a Russian warship fired warning shots at a British yacht in the English Channel.
+
 ## Episode log
 - 2026-05-04 — 2026-05-04 ukraine-s-air-defense-hangs-on-iran
 - 2026-05-06 — 2026-05-06 iran-deal-signal-ukraine-ceasefire-failure-pakistan-submarine
@@ -48,3 +50,4 @@ _2026-06-16:_ Zelensky offered direct Putin meeting on G-Seven sidelines, descri
 - 2026-06-13 — 2026-06-13 iran-deal-or-not-nato-retools-and-the-f-35-crisis
 - 2026-06-15 — 2026-06-15 iran-us-ceasefire-kyiv-cathedral-strike-france-goes-sovereign
 - 2026-06-16 — 2026-06-16 b-52-down-at-edwards-iran-deal-fallout-white-house-plot-foiled
+- 2026-06-17 — 2026-06-17 iran-deal-fractures-at-the-edges-france-goes-nuclear-pentagon-greenlights-collus

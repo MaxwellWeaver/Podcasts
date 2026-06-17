@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-06'
-last_seen: '2026-06-16'
-mentions: 12
+last_seen: '2026-06-17'
+mentions: 13
 ---
 
 # Strait of Hormuz
@@ -57,3 +57,7 @@ _2026-06-15:_ Reopens under the US-Iran ceasefire agreement, with Trump stating 
 _2026-06-16:_ Iran discovered closure as 'powerful new negotiating chip' in ceasefire agreement per Foreign Policy analysis.
 
 - [[2026-06-16 b-52-down-at-edwards-iran-deal-fallout-white-house-plot-foiled]]
+
+_2026-06-17:_ The Iran ceasefire framework centers on reopening it; Iran's ability to threaten closure has become a powerful negotiating chip, though the US adapted faster than Tehran expected.
+
+- [[2026-06-17 iran-deal-fractures-at-the-edges-france-goes-nuclear-pentagon-greenlights-collus]]

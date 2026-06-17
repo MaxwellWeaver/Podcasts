@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-06'
-last_seen: '2026-06-16'
-mentions: 8
+last_seen: '2026-06-17'
+mentions: 9
 ---
 
 # Volodymyr Zelensky
@@ -41,3 +41,7 @@ _2026-06-15:_ Arrived at the G7 summit in France and offered to meet Vladimir Pu
 _2026-06-16:_ Arrived at G-Seven and offered direct Putin meeting on sidelines, 'most concrete diplomatic outreach from either side since spirit of Anchorage framework collapsed in May.'
 
 - [[2026-06-16 b-52-down-at-edwards-iran-deal-fallout-white-house-plot-foiled]]
+
+_2026-06-17:_ His offer to meet Putin on G7 sidelines remains the most concrete diplomatic outreach from either side since May.
+
+- [[2026-06-17 iran-deal-fractures-at-the-edges-france-goes-nuclear-pentagon-greenlights-collus]]

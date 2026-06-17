@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-06-16'
-mentions: 18
+last_seen: '2026-06-17'
+mentions: 19
 ---
 
 # Donald Trump
@@ -81,3 +81,7 @@ _2026-06-15:_ Confirmed the US-Iran deal on Truth Social, writing 'The Deal with
 _2026-06-16:_ Confirmed US-Iran MOU, publicly berated Netanyahu for Beirut strike calling it poor judgment, said Russia should make peace deal following 'very good meeting' with Zelensky at G-Seven.
 
 - [[2026-06-16 b-52-down-at-edwards-iran-deal-fallout-white-house-plot-foiled]]
+
+_2026-06-17:_ Said "If I don't like it, we'll go back to shooting" about the Iran ceasefire; announced blockade removal on Truth Social before clarification; signaled warming to Ukraine's war aims at G7; and issued the AI model access directive.
+
+- [[2026-06-17 iran-deal-fractures-at-the-edges-france-goes-nuclear-pentagon-greenlights-collus]]

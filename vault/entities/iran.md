@@ -3,8 +3,8 @@ type: entity
 kind: place
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-06-16'
-mentions: 16
+last_seen: '2026-06-17'
+mentions: 17
 ---
 
 # Iran
@@ -73,3 +73,7 @@ _2026-06-15:_ Agreed to immediate and permanent termination of military operatio
 _2026-06-16:_ Ceasefire MOU with US discovered Strait of Hormuz closure as 'powerful new negotiating chip'; Foreign Policy analysis states regime survived and emerged more hard-line.
 
 - [[2026-06-16 b-52-down-at-edwards-iran-deal-fallout-white-house-plot-foiled]]
+
+_2026-06-17:_ Tankers loaded with crude passed the US blockade line despite blockade claims; proxy network degraded, air defenses exposed, but compelled US negotiation over maritime pressure rather than capitulation.
+
+- [[2026-06-17 iran-deal-fractures-at-the-edges-france-goes-nuclear-pentagon-greenlights-collus]]

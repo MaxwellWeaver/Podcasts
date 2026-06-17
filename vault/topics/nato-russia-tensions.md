@@ -2,8 +2,8 @@
 type: topic
 status: active
 first_seen: '2026-05-27'
-last_covered: '2026-06-13'
-mentions: 3
+last_covered: '2026-06-17'
+mentions: 4
 related_entities: []
 ---
 
@@ -17,7 +17,10 @@ _2026-05-29:_ Russian Shahed 136 drone struck a ten-story apartment building in 
 
 _2026-06-13:_ Russia is building new military infrastructure near Finland sized for eventual deployment of tens of thousands of troops, according to Nordic and Baltic media investigations; a NATO official confirmed Friday that Moscow could "seek to expand westward into the Nordic and Baltic nations after a ceasefire with Ukraine," and NATO has stood up a new battalion battlegroup in Finland and Sweden as a deterrent.
 
+_2026-06-17:_ A Russian warship fired warning shots at a British-registered yacht in the English Channel near the Isle of Wight, a categorically different escalation from prior stray drone incidents.
+
 ## Episode log
 - 2026-05-27 — 2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges
 - 2026-05-29 — 2026-05-29 russian-drone-hits-romania-iran-deal-pending-china-nuclear-build
 - 2026-06-13 — 2026-06-13 iran-deal-or-not-nato-retools-and-the-f-35-crisis
+- 2026-06-17 — 2026-06-17 iran-deal-fractures-at-the-edges-france-goes-nuclear-pentagon-greenlights-collus

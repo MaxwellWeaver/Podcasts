@@ -3,8 +3,8 @@ type: entity
 kind: weapon_system
 aliases: []
 first_seen: '2026-05-06'
-last_seen: '2026-05-29'
-mentions: 3
+last_seen: '2026-06-17'
+mentions: 4
 ---
 
 # Tomahawk
@@ -21,3 +21,7 @@ _2026-05-28:_ Over one thousand Land Attack Missiles were fired during Operation
 _2026-05-29:_ Operation Epic Fury consumed more than 1,000 Tomahawk missiles; rebuilding this inventory will take until 2030 or 2031.
 
 - [[2026-05-29 russian-drone-hits-romania-iran-deal-pending-china-nuclear-build]]
+
+_2026-06-17:_ Has been a production constraint; Divergent Technologies will 3D print key structural components next year with potential for eightfold annual production increases.
+
+- [[2026-06-17 iran-deal-fractures-at-the-edges-france-goes-nuclear-pentagon-greenlights-collus]]
