@@ -3,8 +3,8 @@ type: entity
 kind: org
 aliases: []
 first_seen: '2026-05-15'
-last_seen: '2026-06-15'
-mentions: 8
+last_seen: '2026-06-18'
+mentions: 9
 ---
 
 # NATO
@@ -41,3 +41,7 @@ _2026-06-13:_ Pentagon planning major reductions in European air power support i
 _2026-06-15:_ France's new Arcadia AI command system is being designed for interoperability across NATO, institutionalizing operational lessons from Ukraine into the alliance's command architecture.
 
 - [[2026-06-15 iran-us-ceasefire-kyiv-cathedral-strike-france-goes-sovereign]]
+
+_2026-06-18:_ Subject of Defense Secretary Hegseth's six-month force posture review; allies now face conditioning of American support on behavior during crises. Already confronting operational gaps in crisis forces after the US cut contributions with immediate effect.
+
+- [[2026-06-18 moscow-burns-iran-deal-wobbles-nato-reviews]]

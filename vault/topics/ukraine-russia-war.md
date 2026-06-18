@@ -2,8 +2,8 @@
 type: topic
 status: active
 first_seen: '2026-05-04'
-last_covered: '2026-06-17'
-mentions: 13
+last_covered: '2026-06-18'
+mentions: 14
 related_entities: []
 ---
 
@@ -37,6 +37,8 @@ _2026-06-16:_ Zelensky offered direct Putin meeting on G-Seven sidelines, descri
 
 _2026-06-17:_ Trump signaled warming to Ukraine's war aims at the G7 while Zelensky's offer to meet Putin on G7 sidelines remains outstanding, and a Russian warship fired warning shots at a British yacht in the English Channel.
 
+_2026-06-18:_ Nearly 200 Ukrainian drones struck Moscow's oil refinery on June 19, the largest attack since the invasion began—retaliation for Russia's June 15 assault on Kyiv that damaged the Dormition Cathedral. Ukraine's offensive capacity has expanded considerably since May, now operating across multiple supply fronts including British-funded production (996 million dollars for 150,000 drones) and MBDA-Diehl Defense co-development for NATO inventories. The logistical tension between offensive strikes at this scale and air defense (Patriot interceptor supply as low as 16 units as of last June) has become both military-critical and a political issue in Washington.
+
 ## Episode log
 - 2026-05-04 — 2026-05-04 ukraine-s-air-defense-hangs-on-iran
 - 2026-05-06 — 2026-05-06 iran-deal-signal-ukraine-ceasefire-failure-pakistan-submarine
@@ -51,3 +53,4 @@ _2026-06-17:_ Trump signaled warming to Ukraine's war aims at the G7 while Zelen
 - 2026-06-15 — 2026-06-15 iran-us-ceasefire-kyiv-cathedral-strike-france-goes-sovereign
 - 2026-06-16 — 2026-06-16 b-52-down-at-edwards-iran-deal-fallout-white-house-plot-foiled
 - 2026-06-17 — 2026-06-17 iran-deal-fractures-at-the-edges-france-goes-nuclear-pentagon-greenlights-collus
+- 2026-06-18 — 2026-06-18 moscow-burns-iran-deal-wobbles-nato-reviews

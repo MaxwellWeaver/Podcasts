@@ -8,11 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 14:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 16:22:35 +0000</lastBuildDate>
     <itunes:author>podcastgen</itunes:author>
     <itunes:category text="News"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>Daily geopolitics, defense tech, and tech briefing. Generated locally.</itunes:summary>
+    <item>
+      <title>Moscow Burns, Iran Deal Wobbles, NATO Reviews</title>
+      <description>Ukraine launches its largest drone strike on Moscow as the US-Iran MOU faces immediate pressure from Israeli moves in Lebanon; Hegseth announces a six-month review of American troop posture in Europe; and the Air Force picks its autonomous wingmen.</description>
+      <guid isPermaLink="false">https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-06-18-8d7a2614.mp3</guid>
+      <enclosure url="https://maxwellweaver.github.io/Podcasts/world_news/audio/2026-06-18-8d7a2614.mp3" length="5920520" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Jun 2026 06:00:00 +0000</pubDate>
+      <itunes:duration>12:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Iran Deal Fractures at the Edges, France Goes Nuclear, Pentagon Greenlights Collusion</title>
       <description>Iranian tankers breach the US blockade before Friday's signing and Trump threatens to return to shooting; France abandons four decades of nuclear restraint; and the Pentagon uses wartime legal powers to let munitions makers coordinate production.</description>

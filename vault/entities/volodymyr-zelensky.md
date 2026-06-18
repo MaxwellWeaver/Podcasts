@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-06'
-last_seen: '2026-06-17'
-mentions: 9
+last_seen: '2026-06-18'
+mentions: 10
 ---
 
 # Volodymyr Zelensky
@@ -45,3 +45,7 @@ _2026-06-16:_ Arrived at G-Seven and offered direct Putin meeting on sidelines, 
 _2026-06-17:_ His offer to meet Putin on G7 sidelines remains the most concrete diplomatic outreach from either side since May.
 
 - [[2026-06-17 iran-deal-fractures-at-the-edges-france-goes-nuclear-pentagon-greenlights-collus]]
+
+_2026-06-18:_ Framed the overnight Moscow drone strike as explicit retaliation: 'If Ukraine burns, your Moscow will burn too.' The strike of nearly 200 drones answered Russia's June 15 assault on Kyiv that damaged the Dormition Cathedral, an eleventh-century UNESCO heritage site.
+
+- [[2026-06-18 moscow-burns-iran-deal-wobbles-nato-reviews]]

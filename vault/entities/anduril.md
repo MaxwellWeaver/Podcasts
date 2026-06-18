@@ -3,8 +3,8 @@ type: entity
 kind: org
 aliases: []
 first_seen: '2026-05-14'
-last_seen: '2026-06-05'
-mentions: 2
+last_seen: '2026-06-18'
+mentions: 3
 ---
 
 # Anduril
@@ -17,3 +17,7 @@ _2026-05-14:_ Listed among disruptive new entrant contractors for Pentagon's low
 _2026-06-05:_ Lattice sensor-to-shooter architecture is tethered to publicly released frontier models from Anthropic, Google, and OpenAI that adversaries can download and fine-tune.
 
 - [[2026-06-05 iran-fires-at-us-warships-china-s-taiwan-governance-plan-syria-chemical-weapons]]
+
+_2026-06-18:_ Awarded production contract for the FQ-44A Fury Collaborative Combat Aircraft, with autonomy software separately competed among Anduril, Shield AI, and Collins Aerospace.
+
+- [[2026-06-18 moscow-burns-iran-deal-wobbles-nato-reviews]]

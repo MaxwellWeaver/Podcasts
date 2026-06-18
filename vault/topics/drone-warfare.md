@@ -2,8 +2,8 @@
 type: topic
 status: active
 first_seen: '2026-05-04'
-last_covered: '2026-05-27'
-mentions: 4
+last_covered: '2026-06-18'
+mentions: 5
 related_entities: []
 ---
 
@@ -19,8 +19,11 @@ _2026-05-26:_ Hezbollah deployed fiber-optic guided drones using physical wire c
 
 _2026-05-27:_ Hezbollah's wire-guided FPV drones using fiber-optic cables render electronic jamming irrelevant; Israeli troops are improvising fishing nets from coastal fishermen to protect combat vehicles, revealing a kinetic interception problem rather than electronic solution.
 
+_2026-06-18:_ Russian modifications to Shahed-136 drones are enabling remote guidance against moving targets beyond original fixed-coordinate programming. An Apache attack helicopter was downed off Oman this month after a Shahed engagement, illustrating the shift from fixed-target to mobile-platform capability. Attack helicopters now navigate contested airspace where drones cheaper and smaller than manned aircraft are increasingly capable of engaging moving platforms.
+
 ## Episode log
 - 2026-05-04 — 2026-05-04 ukraine-s-air-defense-hangs-on-iran
 - 2026-05-15 — 2026-05-15 beijing-summit-readout-gap-and-the-iran-arsenal-dispute
 - 2026-05-26 — 2026-05-26 iran-ceasefire-under-fire-nato-commitments-cut
 - 2026-05-27 — 2026-05-27 iran-ceasefire-fractures-as-draft-hormuz-deal-emerges
+- 2026-06-18 — 2026-06-18 moscow-burns-iran-deal-wobbles-nato-reviews

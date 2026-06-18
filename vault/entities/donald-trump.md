@@ -3,8 +3,8 @@ type: entity
 kind: person
 aliases: []
 first_seen: '2026-05-04'
-last_seen: '2026-06-17'
-mentions: 19
+last_seen: '2026-06-18'
+mentions: 20
 ---
 
 # Donald Trump
@@ -85,3 +85,7 @@ _2026-06-16:_ Confirmed US-Iran MOU, publicly berated Netanyahu for Beirut strik
 _2026-06-17:_ Said "If I don't like it, we'll go back to shooting" about the Iran ceasefire; announced blockade removal on Truth Social before clarification; signaled warming to Ukraine's war aims at G7; and issued the AI model access directive.
 
 - [[2026-06-17 iran-deal-fractures-at-the-edges-france-goes-nuclear-pentagon-greenlights-collus]]
+
+_2026-06-18:_ At the G7 summit in the French Alps stated bluntly: 'If a final deal doesn't get done in sixty days, that's all right. We go back to bombing.'
+
+- [[2026-06-18 moscow-burns-iran-deal-wobbles-nato-reviews]]
